@@ -1,0 +1,2593 @@
+,neighbourhood,area,rooms,bathrooms,rent
+0,Jardim Bethania,60,2,2,1700
+1,Jardim Alvorada,60,2,1,880
+2,Jardim Alvorada,64,2,2,2500
+3,Jardim Santa Paula,66,2,2,1223
+4,Parque Arnold Schimidt,48,2,1,1100
+5,Parque Santa Mônica,82,1,1,1400
+6,Jardim Brasil,49,2,2,1000
+7,Vila Irene,42,2,1,600
+8,,64,3,2,1400
+9,Centro,44,1,1,1400
+10,Jardim Lutfalla,56,2,1,1555
+11,,98,2,2,1667
+12,Gleba I,111,4,3,3300
+13,Centro,35,1,2,1112
+14,Jardim Bethania,115,3,1,2440
+15,Jardim Gibertoni,150,3,3,3700
+16,,146,3,4,2500
+17,Parque Sabará,63,2,2,1760
+18,Centro,60,2,3,1554
+19,Jardim Centenário,48,2,1,1400
+20,Parque Santa Felícia Jardim,80,3,1,1667
+21,,100,3,2,2000
+22,Centro,56,2,1,1900
+23,,80,2,2,1500
+24,Parque Arnold Schimidt,41,1,1,1112
+25,Jardim Nova Santa Paula,57,2,1,750
+26,Jardim Gibertoni,130,3,3,1000
+27,Centro,60,2,1,1900
+28,Parque Sabará,67,2,2,1900
+29,Jardim Gibertoni,70,2,1,1334
+30,Parque Santa Mônica,81,3,1,1300
+31,Jardim Nova São Carlos,42,2,1,640
+32,Parque Arnold Schimidt,63,2,2,1500
+33,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+34,,102,3,2,3111
+35,Parque Fehr,43,2,1,1334
+36,Jardim Bethania,60,2,2,1700
+37,Jardim Alvorada,60,2,1,880
+38,Jardim Alvorada,64,2,2,2500
+39,Jardim Santa Paula,66,2,2,1223
+40,Parque Arnold Schimidt,48,2,1,1100
+41,Parque Santa Mônica,82,1,1,1400
+42,Jardim Brasil,49,2,2,1000
+43,Vila Irene,42,2,1,600
+44,,64,3,2,1400
+45,Centro,44,1,1,1400
+46,Jardim Lutfalla,56,2,1,1555
+47,,98,2,2,1667
+48,Gleba I,111,4,3,3300
+49,Centro,35,1,2,1112
+50,Jardim Bethania,115,3,1,2440
+51,Jardim Gibertoni,150,3,3,3700
+52,,146,3,4,2500
+53,Parque Sabará,63,2,2,1760
+54,Centro,60,2,3,1554
+55,Jardim Centenário,48,2,1,1400
+56,Parque Santa Felícia Jardim,80,3,1,1667
+57,,100,3,2,2000
+58,Centro,56,2,1,1900
+59,,80,2,2,1500
+60,Parque Arnold Schimidt,41,1,1,1112
+61,Jardim Nova Santa Paula,57,2,1,750
+62,Jardim Gibertoni,130,3,3,1000
+63,Centro,60,2,1,1900
+64,Parque Sabará,67,2,2,1900
+65,Jardim Gibertoni,70,2,1,1334
+66,Parque Santa Mônica,81,3,1,1300
+67,Jardim Nova São Carlos,42,2,1,640
+68,Parque Arnold Schimidt,63,2,2,1500
+69,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+70,,102,3,2,3111
+71,Parque Fehr,43,2,1,1334
+72,Jardim Bethania,60,2,2,1700
+73,Jardim Alvorada,60,2,1,880
+74,Jardim Alvorada,64,2,2,2500
+75,Jardim Santa Paula,66,2,2,1223
+76,Parque Arnold Schimidt,48,2,1,1100
+77,Parque Santa Mônica,82,1,1,1400
+78,Jardim Brasil,49,2,2,1000
+79,Vila Irene,42,2,1,600
+80,,64,3,2,1400
+81,Centro,44,1,1,1400
+82,Jardim Lutfalla,56,2,1,1555
+83,,98,2,2,1667
+84,Gleba I,111,4,3,3300
+85,Centro,35,1,2,1112
+86,Jardim Bethania,115,3,1,2440
+87,Jardim Gibertoni,150,3,3,3700
+88,,146,3,4,2500
+89,Parque Sabará,63,2,2,1760
+90,Centro,60,2,3,1554
+91,Jardim Centenário,48,2,1,1400
+92,Parque Santa Felícia Jardim,80,3,1,1667
+93,,100,3,2,2000
+94,Centro,56,2,1,1900
+95,,80,2,2,1500
+96,Parque Arnold Schimidt,41,1,1,1112
+97,Jardim Nova Santa Paula,57,2,1,750
+98,Jardim Gibertoni,130,3,3,1000
+99,Centro,60,2,1,1900
+100,Parque Sabará,67,2,2,1900
+101,Jardim Gibertoni,70,2,1,1334
+102,Parque Santa Mônica,81,3,1,1300
+103,Jardim Nova São Carlos,42,2,1,640
+104,Parque Arnold Schimidt,63,2,2,1500
+105,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+106,,102,3,2,3111
+107,Parque Fehr,43,2,1,1334
+108,Jardim Bethania,60,2,2,1700
+109,Jardim Alvorada,60,2,1,880
+110,Jardim Alvorada,64,2,2,2500
+111,Jardim Santa Paula,66,2,2,1223
+112,Parque Arnold Schimidt,48,2,1,1100
+113,Parque Santa Mônica,82,1,1,1400
+114,Jardim Brasil,49,2,2,1000
+115,Vila Irene,42,2,1,600
+116,,64,3,2,1400
+117,Centro,44,1,1,1400
+118,Jardim Lutfalla,56,2,1,1555
+119,,98,2,2,1667
+120,Gleba I,111,4,3,3300
+121,Centro,35,1,2,1112
+122,Jardim Bethania,115,3,1,2440
+123,Jardim Gibertoni,150,3,3,3700
+124,,146,3,4,2500
+125,Parque Sabará,63,2,2,1760
+126,Centro,60,2,3,1554
+127,Jardim Centenário,48,2,1,1400
+128,Parque Santa Felícia Jardim,80,3,1,1667
+129,,100,3,2,2000
+130,Centro,56,2,1,1900
+131,,80,2,2,1500
+132,Parque Arnold Schimidt,41,1,1,1112
+133,Jardim Nova Santa Paula,57,2,1,750
+134,Jardim Gibertoni,130,3,3,1000
+135,Centro,60,2,1,1900
+136,Parque Sabará,67,2,2,1900
+137,Jardim Gibertoni,70,2,1,1334
+138,Parque Santa Mônica,81,3,1,1300
+139,Jardim Nova São Carlos,42,2,1,640
+140,Parque Arnold Schimidt,63,2,2,1500
+141,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+142,,102,3,2,3111
+143,Parque Fehr,43,2,1,1334
+144,Jardim Bethania,60,2,2,1700
+145,Jardim Alvorada,60,2,1,880
+146,Jardim Alvorada,64,2,2,2500
+147,Jardim Santa Paula,66,2,2,1223
+148,Parque Arnold Schimidt,48,2,1,1100
+149,Parque Santa Mônica,82,1,1,1400
+150,Jardim Brasil,49,2,2,1000
+151,Vila Irene,42,2,1,600
+152,,64,3,2,1400
+153,Centro,44,1,1,1400
+154,Jardim Lutfalla,56,2,1,1555
+155,,98,2,2,1667
+156,Gleba I,111,4,3,3300
+157,Centro,35,1,2,1112
+158,Jardim Bethania,115,3,1,2440
+159,Jardim Gibertoni,150,3,3,3700
+160,,146,3,4,2500
+161,Parque Sabará,63,2,2,1760
+162,Centro,60,2,3,1554
+163,Jardim Centenário,48,2,1,1400
+164,Parque Santa Felícia Jardim,80,3,1,1667
+165,,100,3,2,2000
+166,Centro,56,2,1,1900
+167,,80,2,2,1500
+168,Parque Arnold Schimidt,41,1,1,1112
+169,Jardim Nova Santa Paula,57,2,1,750
+170,Jardim Gibertoni,130,3,3,1000
+171,Centro,60,2,1,1900
+172,Parque Sabará,67,2,2,1900
+173,Jardim Gibertoni,70,2,1,1334
+174,Parque Santa Mônica,81,3,1,1300
+175,Jardim Nova São Carlos,42,2,1,640
+176,Parque Arnold Schimidt,63,2,2,1500
+177,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+178,,102,3,2,3111
+179,Parque Fehr,43,2,1,1334
+180,Jardim Bethania,60,2,2,1700
+181,Jardim Alvorada,60,2,1,880
+182,Jardim Alvorada,64,2,2,2500
+183,Jardim Santa Paula,66,2,2,1223
+184,Parque Arnold Schimidt,48,2,1,1100
+185,Parque Santa Mônica,82,1,1,1400
+186,Jardim Brasil,49,2,2,1000
+187,Vila Irene,42,2,1,600
+188,,64,3,2,1400
+189,Centro,44,1,1,1400
+190,Jardim Lutfalla,56,2,1,1555
+191,,98,2,2,1667
+192,Gleba I,111,4,3,3300
+193,Centro,35,1,2,1112
+194,Jardim Bethania,115,3,1,2440
+195,Jardim Gibertoni,150,3,3,3700
+196,,146,3,4,2500
+197,Parque Sabará,63,2,2,1760
+198,Centro,60,2,3,1554
+199,Jardim Centenário,48,2,1,1400
+200,Parque Santa Felícia Jardim,80,3,1,1667
+201,,100,3,2,2000
+202,Centro,56,2,1,1900
+203,,80,2,2,1500
+204,Parque Arnold Schimidt,41,1,1,1112
+205,Jardim Nova Santa Paula,57,2,1,750
+206,Jardim Gibertoni,130,3,3,1000
+207,Centro,60,2,1,1900
+208,Parque Sabará,67,2,2,1900
+209,Jardim Gibertoni,70,2,1,1334
+210,Parque Santa Mônica,81,3,1,1300
+211,Jardim Nova São Carlos,42,2,1,640
+212,Parque Arnold Schimidt,63,2,2,1500
+213,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+214,,102,3,2,3111
+215,Parque Fehr,43,2,1,1334
+216,Jardim Bethania,60,2,2,1700
+217,Jardim Alvorada,60,2,1,880
+218,Jardim Alvorada,64,2,2,2500
+219,Jardim Santa Paula,66,2,2,1223
+220,Parque Arnold Schimidt,48,2,1,1100
+221,Parque Santa Mônica,82,1,1,1400
+222,Jardim Brasil,49,2,2,1000
+223,Vila Irene,42,2,1,600
+224,,64,3,2,1400
+225,Centro,44,1,1,1400
+226,Jardim Lutfalla,56,2,1,1555
+227,,98,2,2,1667
+228,Gleba I,111,4,3,3300
+229,Centro,35,1,2,1112
+230,Jardim Bethania,115,3,1,2440
+231,Jardim Gibertoni,150,3,3,3700
+232,,146,3,4,2500
+233,Parque Sabará,63,2,2,1760
+234,Centro,60,2,3,1554
+235,Jardim Centenário,48,2,1,1400
+236,Parque Santa Felícia Jardim,80,3,1,1667
+237,,100,3,2,2000
+238,Centro,56,2,1,1900
+239,,80,2,2,1500
+240,Parque Arnold Schimidt,41,1,1,1112
+241,Jardim Nova Santa Paula,57,2,1,750
+242,Jardim Gibertoni,130,3,3,1000
+243,Centro,60,2,1,1900
+244,Parque Sabará,67,2,2,1900
+245,Jardim Gibertoni,70,2,1,1334
+246,Parque Santa Mônica,81,3,1,1300
+247,Jardim Nova São Carlos,42,2,1,640
+248,Parque Arnold Schimidt,63,2,2,1500
+249,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+250,,102,3,2,3111
+251,Parque Fehr,43,2,1,1334
+252,Jardim Bethania,60,2,2,1700
+253,Jardim Alvorada,60,2,1,880
+254,Jardim Alvorada,64,2,2,2500
+255,Jardim Santa Paula,66,2,2,1223
+256,Parque Arnold Schimidt,48,2,1,1100
+257,Parque Santa Mônica,82,1,1,1400
+258,Jardim Brasil,49,2,2,1000
+259,Vila Irene,42,2,1,600
+260,,64,3,2,1400
+261,Centro,44,1,1,1400
+262,Jardim Lutfalla,56,2,1,1555
+263,,98,2,2,1667
+264,Gleba I,111,4,3,3300
+265,Centro,35,1,2,1112
+266,Jardim Bethania,115,3,1,2440
+267,Jardim Gibertoni,150,3,3,3700
+268,,146,3,4,2500
+269,Parque Sabará,63,2,2,1760
+270,Centro,60,2,3,1554
+271,Jardim Centenário,48,2,1,1400
+272,Parque Santa Felícia Jardim,80,3,1,1667
+273,,100,3,2,2000
+274,Centro,56,2,1,1900
+275,,80,2,2,1500
+276,Parque Arnold Schimidt,41,1,1,1112
+277,Jardim Nova Santa Paula,57,2,1,750
+278,Jardim Gibertoni,130,3,3,1000
+279,Centro,60,2,1,1900
+280,Parque Sabará,67,2,2,1900
+281,Jardim Gibertoni,70,2,1,1334
+282,Parque Santa Mônica,81,3,1,1300
+283,Jardim Nova São Carlos,42,2,1,640
+284,Parque Arnold Schimidt,63,2,2,1500
+285,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+286,,102,3,2,3111
+287,Parque Fehr,43,2,1,1334
+288,Jardim Bethania,60,2,2,1700
+289,Jardim Alvorada,60,2,1,880
+290,Jardim Alvorada,64,2,2,2500
+291,Jardim Santa Paula,66,2,2,1223
+292,Parque Arnold Schimidt,48,2,1,1100
+293,Parque Santa Mônica,82,1,1,1400
+294,Jardim Brasil,49,2,2,1000
+295,Vila Irene,42,2,1,600
+296,,64,3,2,1400
+297,Centro,44,1,1,1400
+298,Jardim Lutfalla,56,2,1,1555
+299,,98,2,2,1667
+300,Gleba I,111,4,3,3300
+301,Centro,35,1,2,1112
+302,Jardim Bethania,115,3,1,2440
+303,Jardim Gibertoni,150,3,3,3700
+304,,146,3,4,2500
+305,Parque Sabará,63,2,2,1760
+306,Centro,60,2,3,1554
+307,Jardim Centenário,48,2,1,1400
+308,Parque Santa Felícia Jardim,80,3,1,1667
+309,,100,3,2,2000
+310,Centro,56,2,1,1900
+311,,80,2,2,1500
+312,Parque Arnold Schimidt,41,1,1,1112
+313,Jardim Nova Santa Paula,57,2,1,750
+314,Jardim Gibertoni,130,3,3,1000
+315,Centro,60,2,1,1900
+316,Parque Sabará,67,2,2,1900
+317,Jardim Gibertoni,70,2,1,1334
+318,Parque Santa Mônica,81,3,1,1300
+319,Jardim Nova São Carlos,42,2,1,640
+320,Parque Arnold Schimidt,63,2,2,1500
+321,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+322,,102,3,2,3111
+323,Parque Fehr,43,2,1,1334
+324,Jardim Bethania,60,2,2,1700
+325,Jardim Alvorada,60,2,1,880
+326,Jardim Alvorada,64,2,2,2500
+327,Jardim Santa Paula,66,2,2,1223
+328,Parque Arnold Schimidt,48,2,1,1100
+329,Parque Santa Mônica,82,1,1,1400
+330,Jardim Brasil,49,2,2,1000
+331,Vila Irene,42,2,1,600
+332,,64,3,2,1400
+333,Centro,44,1,1,1400
+334,Jardim Lutfalla,56,2,1,1555
+335,,98,2,2,1667
+336,Gleba I,111,4,3,3300
+337,Centro,35,1,2,1112
+338,Jardim Bethania,115,3,1,2440
+339,Jardim Gibertoni,150,3,3,3700
+340,,146,3,4,2500
+341,Parque Sabará,63,2,2,1760
+342,Centro,60,2,3,1554
+343,Jardim Centenário,48,2,1,1400
+344,Parque Santa Felícia Jardim,80,3,1,1667
+345,,100,3,2,2000
+346,Centro,56,2,1,1900
+347,,80,2,2,1500
+348,Parque Arnold Schimidt,41,1,1,1112
+349,Jardim Nova Santa Paula,57,2,1,750
+350,Jardim Gibertoni,130,3,3,1000
+351,Centro,60,2,1,1900
+352,Parque Sabará,67,2,2,1900
+353,Jardim Gibertoni,70,2,1,1334
+354,Parque Santa Mônica,81,3,1,1300
+355,Jardim Nova São Carlos,42,2,1,640
+356,Parque Arnold Schimidt,63,2,2,1500
+357,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+358,,102,3,2,3111
+359,Parque Fehr,43,2,1,1334
+360,Jardim Bethania,60,2,2,1700
+361,Jardim Alvorada,60,2,1,880
+362,Jardim Alvorada,64,2,2,2500
+363,Jardim Santa Paula,66,2,2,1223
+364,Parque Arnold Schimidt,48,2,1,1100
+365,Parque Santa Mônica,82,1,1,1400
+366,Jardim Brasil,49,2,2,1000
+367,Vila Irene,42,2,1,600
+368,,64,3,2,1400
+369,Centro,44,1,1,1400
+370,Jardim Lutfalla,56,2,1,1555
+371,,98,2,2,1667
+372,Gleba I,111,4,3,3300
+373,Centro,35,1,2,1112
+374,Jardim Bethania,115,3,1,2440
+375,Jardim Gibertoni,150,3,3,3700
+376,,146,3,4,2500
+377,Parque Sabará,63,2,2,1760
+378,Centro,60,2,3,1554
+379,Jardim Centenário,48,2,1,1400
+380,Parque Santa Felícia Jardim,80,3,1,1667
+381,,100,3,2,2000
+382,Centro,56,2,1,1900
+383,,80,2,2,1500
+384,Parque Arnold Schimidt,41,1,1,1112
+385,Jardim Nova Santa Paula,57,2,1,750
+386,Jardim Gibertoni,130,3,3,1000
+387,Centro,60,2,1,1900
+388,Parque Sabará,67,2,2,1900
+389,Jardim Gibertoni,70,2,1,1334
+390,Parque Santa Mônica,81,3,1,1300
+391,Jardim Nova São Carlos,42,2,1,640
+392,Parque Arnold Schimidt,63,2,2,1500
+393,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+394,,102,3,2,3111
+395,Parque Fehr,43,2,1,1334
+396,Jardim Bethania,60,2,2,1700
+397,Jardim Alvorada,60,2,1,880
+398,Jardim Alvorada,64,2,2,2500
+399,Jardim Santa Paula,66,2,2,1223
+400,Parque Arnold Schimidt,48,2,1,1100
+401,Parque Santa Mônica,82,1,1,1400
+402,Jardim Brasil,49,2,2,1000
+403,Vila Irene,42,2,1,600
+404,,64,3,2,1400
+405,Centro,44,1,1,1400
+406,Jardim Lutfalla,56,2,1,1555
+407,,98,2,2,1667
+408,Gleba I,111,4,3,3300
+409,Centro,35,1,2,1112
+410,Jardim Bethania,115,3,1,2440
+411,Jardim Gibertoni,150,3,3,3700
+412,,146,3,4,2500
+413,Parque Sabará,63,2,2,1760
+414,Centro,60,2,3,1554
+415,Jardim Centenário,48,2,1,1400
+416,Parque Santa Felícia Jardim,80,3,1,1667
+417,,100,3,2,2000
+418,Centro,56,2,1,1900
+419,,80,2,2,1500
+420,Parque Arnold Schimidt,41,1,1,1112
+421,Jardim Nova Santa Paula,57,2,1,750
+422,Jardim Gibertoni,130,3,3,1000
+423,Centro,60,2,1,1900
+424,Parque Sabará,67,2,2,1900
+425,Jardim Gibertoni,70,2,1,1334
+426,Parque Santa Mônica,81,3,1,1300
+427,Jardim Nova São Carlos,42,2,1,640
+428,Parque Arnold Schimidt,63,2,2,1500
+429,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+430,,102,3,2,3111
+431,Parque Fehr,43,2,1,1334
+432,Jardim Bethania,60,2,2,1700
+433,Jardim Alvorada,60,2,1,880
+434,Jardim Alvorada,64,2,2,2500
+435,Jardim Santa Paula,66,2,2,1223
+436,Parque Arnold Schimidt,48,2,1,1100
+437,Parque Santa Mônica,82,1,1,1400
+438,Jardim Brasil,49,2,2,1000
+439,Vila Irene,42,2,1,600
+440,,64,3,2,1400
+441,Centro,44,1,1,1400
+442,Jardim Lutfalla,56,2,1,1555
+443,,98,2,2,1667
+444,Gleba I,111,4,3,3300
+445,Centro,35,1,2,1112
+446,Jardim Bethania,115,3,1,2440
+447,Jardim Gibertoni,150,3,3,3700
+448,,146,3,4,2500
+449,Parque Sabará,63,2,2,1760
+450,Centro,60,2,3,1554
+451,Jardim Centenário,48,2,1,1400
+452,Parque Santa Felícia Jardim,80,3,1,1667
+453,,100,3,2,2000
+454,Centro,56,2,1,1900
+455,,80,2,2,1500
+456,Parque Arnold Schimidt,41,1,1,1112
+457,Jardim Nova Santa Paula,57,2,1,750
+458,Jardim Gibertoni,130,3,3,1000
+459,Centro,60,2,1,1900
+460,Parque Sabará,67,2,2,1900
+461,Jardim Gibertoni,70,2,1,1334
+462,Parque Santa Mônica,81,3,1,1300
+463,Jardim Nova São Carlos,42,2,1,640
+464,Parque Arnold Schimidt,63,2,2,1500
+465,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+466,,102,3,2,3111
+467,Parque Fehr,43,2,1,1334
+468,Jardim Bethania,60,2,2,1700
+469,Jardim Alvorada,60,2,1,880
+470,Jardim Alvorada,64,2,2,2500
+471,Jardim Santa Paula,66,2,2,1223
+472,Parque Arnold Schimidt,48,2,1,1100
+473,Parque Santa Mônica,82,1,1,1400
+474,Jardim Brasil,49,2,2,1000
+475,Vila Irene,42,2,1,600
+476,,64,3,2,1400
+477,Centro,44,1,1,1400
+478,Jardim Lutfalla,56,2,1,1555
+479,,98,2,2,1667
+480,Gleba I,111,4,3,3300
+481,Centro,35,1,2,1112
+482,Jardim Bethania,115,3,1,2440
+483,Jardim Gibertoni,150,3,3,3700
+484,,146,3,4,2500
+485,Parque Sabará,63,2,2,1760
+486,Centro,60,2,3,1554
+487,Jardim Centenário,48,2,1,1400
+488,Parque Santa Felícia Jardim,80,3,1,1667
+489,,100,3,2,2000
+490,Centro,56,2,1,1900
+491,,80,2,2,1500
+492,Parque Arnold Schimidt,41,1,1,1112
+493,Jardim Nova Santa Paula,57,2,1,750
+494,Jardim Gibertoni,130,3,3,1000
+495,Centro,60,2,1,1900
+496,Parque Sabará,67,2,2,1900
+497,Jardim Gibertoni,70,2,1,1334
+498,Parque Santa Mônica,81,3,1,1300
+499,Jardim Nova São Carlos,42,2,1,640
+500,Parque Arnold Schimidt,63,2,2,1500
+501,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+502,,102,3,2,3111
+503,Parque Fehr,43,2,1,1334
+504,Jardim Bethania,60,2,2,1700
+505,Jardim Alvorada,60,2,1,880
+506,Jardim Alvorada,64,2,2,2500
+507,Jardim Santa Paula,66,2,2,1223
+508,Parque Arnold Schimidt,48,2,1,1100
+509,Parque Santa Mônica,82,1,1,1400
+510,Jardim Brasil,49,2,2,1000
+511,Vila Irene,42,2,1,600
+512,,64,3,2,1400
+513,Centro,44,1,1,1400
+514,Jardim Lutfalla,56,2,1,1555
+515,,98,2,2,1667
+516,Gleba I,111,4,3,3300
+517,Centro,35,1,2,1112
+518,Jardim Bethania,115,3,1,2440
+519,Jardim Gibertoni,150,3,3,3700
+520,,146,3,4,2500
+521,Parque Sabará,63,2,2,1760
+522,Centro,60,2,3,1554
+523,Jardim Centenário,48,2,1,1400
+524,Parque Santa Felícia Jardim,80,3,1,1667
+525,,100,3,2,2000
+526,Centro,56,2,1,1900
+527,,80,2,2,1500
+528,Parque Arnold Schimidt,41,1,1,1112
+529,Jardim Nova Santa Paula,57,2,1,750
+530,Jardim Gibertoni,130,3,3,1000
+531,Centro,60,2,1,1900
+532,Parque Sabará,67,2,2,1900
+533,Jardim Gibertoni,70,2,1,1334
+534,Parque Santa Mônica,81,3,1,1300
+535,Jardim Nova São Carlos,42,2,1,640
+536,Parque Arnold Schimidt,63,2,2,1500
+537,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+538,,102,3,2,3111
+539,Parque Fehr,43,2,1,1334
+540,Jardim Bethania,60,2,2,1700
+541,Jardim Alvorada,60,2,1,880
+542,Jardim Alvorada,64,2,2,2500
+543,Jardim Santa Paula,66,2,2,1223
+544,Parque Arnold Schimidt,48,2,1,1100
+545,Parque Santa Mônica,82,1,1,1400
+546,Jardim Brasil,49,2,2,1000
+547,Vila Irene,42,2,1,600
+548,,64,3,2,1400
+549,Centro,44,1,1,1400
+550,Jardim Lutfalla,56,2,1,1555
+551,,98,2,2,1667
+552,Gleba I,111,4,3,3300
+553,Centro,35,1,2,1112
+554,Jardim Bethania,115,3,1,2440
+555,Jardim Gibertoni,150,3,3,3700
+556,,146,3,4,2500
+557,Parque Sabará,63,2,2,1760
+558,Centro,60,2,3,1554
+559,Jardim Centenário,48,2,1,1400
+560,Parque Santa Felícia Jardim,80,3,1,1667
+561,,100,3,2,2000
+562,Centro,56,2,1,1900
+563,,80,2,2,1500
+564,Parque Arnold Schimidt,41,1,1,1112
+565,Jardim Nova Santa Paula,57,2,1,750
+566,Jardim Gibertoni,130,3,3,1000
+567,Centro,60,2,1,1900
+568,Parque Sabará,67,2,2,1900
+569,Jardim Gibertoni,70,2,1,1334
+570,Parque Santa Mônica,81,3,1,1300
+571,Jardim Nova São Carlos,42,2,1,640
+572,Parque Arnold Schimidt,63,2,2,1500
+573,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+574,,102,3,2,3111
+575,Parque Fehr,43,2,1,1334
+576,Jardim Bethania,60,2,2,1700
+577,Jardim Alvorada,60,2,1,880
+578,Jardim Alvorada,64,2,2,2500
+579,Jardim Santa Paula,66,2,2,1223
+580,Parque Arnold Schimidt,48,2,1,1100
+581,Parque Santa Mônica,82,1,1,1400
+582,Jardim Brasil,49,2,2,1000
+583,Vila Irene,42,2,1,600
+584,,64,3,2,1400
+585,Centro,44,1,1,1400
+586,Jardim Lutfalla,56,2,1,1555
+587,,98,2,2,1667
+588,Gleba I,111,4,3,3300
+589,Centro,35,1,2,1112
+590,Jardim Bethania,115,3,1,2440
+591,Jardim Gibertoni,150,3,3,3700
+592,,146,3,4,2500
+593,Parque Sabará,63,2,2,1760
+594,Centro,60,2,3,1554
+595,Jardim Centenário,48,2,1,1400
+596,Parque Santa Felícia Jardim,80,3,1,1667
+597,,100,3,2,2000
+598,Centro,56,2,1,1900
+599,,80,2,2,1500
+600,Parque Arnold Schimidt,41,1,1,1112
+601,Jardim Nova Santa Paula,57,2,1,750
+602,Jardim Gibertoni,130,3,3,1000
+603,Centro,60,2,1,1900
+604,Parque Sabará,67,2,2,1900
+605,Jardim Gibertoni,70,2,1,1334
+606,Parque Santa Mônica,81,3,1,1300
+607,Jardim Nova São Carlos,42,2,1,640
+608,Parque Arnold Schimidt,63,2,2,1500
+609,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+610,,102,3,2,3111
+611,Parque Fehr,43,2,1,1334
+612,Jardim Bethania,60,2,2,1700
+613,Jardim Alvorada,60,2,1,880
+614,Jardim Alvorada,64,2,2,2500
+615,Jardim Santa Paula,66,2,2,1223
+616,Parque Arnold Schimidt,48,2,1,1100
+617,Parque Santa Mônica,82,1,1,1400
+618,Jardim Brasil,49,2,2,1000
+619,Vila Irene,42,2,1,600
+620,,64,3,2,1400
+621,Centro,44,1,1,1400
+622,Jardim Lutfalla,56,2,1,1555
+623,,98,2,2,1667
+624,Gleba I,111,4,3,3300
+625,Centro,35,1,2,1112
+626,Jardim Bethania,115,3,1,2440
+627,Jardim Gibertoni,150,3,3,3700
+628,,146,3,4,2500
+629,Parque Sabará,63,2,2,1760
+630,Centro,60,2,3,1554
+631,Jardim Centenário,48,2,1,1400
+632,Parque Santa Felícia Jardim,80,3,1,1667
+633,,100,3,2,2000
+634,Centro,56,2,1,1900
+635,,80,2,2,1500
+636,Parque Arnold Schimidt,41,1,1,1112
+637,Jardim Nova Santa Paula,57,2,1,750
+638,Jardim Gibertoni,130,3,3,1000
+639,Centro,60,2,1,1900
+640,Parque Sabará,67,2,2,1900
+641,Jardim Gibertoni,70,2,1,1334
+642,Parque Santa Mônica,81,3,1,1300
+643,Jardim Nova São Carlos,42,2,1,640
+644,Parque Arnold Schimidt,63,2,2,1500
+645,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+646,,102,3,2,3111
+647,Parque Fehr,43,2,1,1334
+648,Jardim Bethania,60,2,2,1700
+649,Jardim Alvorada,60,2,1,880
+650,Jardim Alvorada,64,2,2,2500
+651,Jardim Santa Paula,66,2,2,1223
+652,Parque Arnold Schimidt,48,2,1,1100
+653,Parque Santa Mônica,82,1,1,1400
+654,Jardim Brasil,49,2,2,1000
+655,Vila Irene,42,2,1,600
+656,,64,3,2,1400
+657,Centro,44,1,1,1400
+658,Jardim Lutfalla,56,2,1,1555
+659,,98,2,2,1667
+660,Gleba I,111,4,3,3300
+661,Centro,35,1,2,1112
+662,Jardim Bethania,115,3,1,2440
+663,Jardim Gibertoni,150,3,3,3700
+664,,146,3,4,2500
+665,Parque Sabará,63,2,2,1760
+666,Centro,60,2,3,1554
+667,Jardim Centenário,48,2,1,1400
+668,Parque Santa Felícia Jardim,80,3,1,1667
+669,,100,3,2,2000
+670,Centro,56,2,1,1900
+671,,80,2,2,1500
+672,Parque Arnold Schimidt,41,1,1,1112
+673,Jardim Nova Santa Paula,57,2,1,750
+674,Jardim Gibertoni,130,3,3,1000
+675,Centro,60,2,1,1900
+676,Parque Sabará,67,2,2,1900
+677,Jardim Gibertoni,70,2,1,1334
+678,Parque Santa Mônica,81,3,1,1300
+679,Jardim Nova São Carlos,42,2,1,640
+680,Parque Arnold Schimidt,63,2,2,1500
+681,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+682,,102,3,2,3111
+683,Parque Fehr,43,2,1,1334
+684,Jardim Bethania,60,2,2,1700
+685,Jardim Alvorada,60,2,1,880
+686,Jardim Alvorada,64,2,2,2500
+687,Jardim Santa Paula,66,2,2,1223
+688,Parque Arnold Schimidt,48,2,1,1100
+689,Parque Santa Mônica,82,1,1,1400
+690,Jardim Brasil,49,2,2,1000
+691,Vila Irene,42,2,1,600
+692,,64,3,2,1400
+693,Centro,44,1,1,1400
+694,Jardim Lutfalla,56,2,1,1555
+695,,98,2,2,1667
+696,Gleba I,111,4,3,3300
+697,Centro,35,1,2,1112
+698,Jardim Bethania,115,3,1,2440
+699,Jardim Gibertoni,150,3,3,3700
+700,,146,3,4,2500
+701,Parque Sabará,63,2,2,1760
+702,Centro,60,2,3,1554
+703,Jardim Centenário,48,2,1,1400
+704,Parque Santa Felícia Jardim,80,3,1,1667
+705,,100,3,2,2000
+706,Centro,56,2,1,1900
+707,,80,2,2,1500
+708,Parque Arnold Schimidt,41,1,1,1112
+709,Jardim Nova Santa Paula,57,2,1,750
+710,Jardim Gibertoni,130,3,3,1000
+711,Centro,60,2,1,1900
+712,Parque Sabará,67,2,2,1900
+713,Jardim Gibertoni,70,2,1,1334
+714,Parque Santa Mônica,81,3,1,1300
+715,Jardim Nova São Carlos,42,2,1,640
+716,Parque Arnold Schimidt,63,2,2,1500
+717,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+718,,102,3,2,3111
+719,Parque Fehr,43,2,1,1334
+720,Jardim Bethania,60,2,2,1700
+721,Jardim Alvorada,60,2,1,880
+722,Jardim Alvorada,64,2,2,2500
+723,Jardim Santa Paula,66,2,2,1223
+724,Parque Arnold Schimidt,48,2,1,1100
+725,Parque Santa Mônica,82,1,1,1400
+726,Jardim Brasil,49,2,2,1000
+727,Vila Irene,42,2,1,600
+728,,64,3,2,1400
+729,Centro,44,1,1,1400
+730,Jardim Lutfalla,56,2,1,1555
+731,,98,2,2,1667
+732,Gleba I,111,4,3,3300
+733,Centro,35,1,2,1112
+734,Jardim Bethania,115,3,1,2440
+735,Jardim Gibertoni,150,3,3,3700
+736,,146,3,4,2500
+737,Parque Sabará,63,2,2,1760
+738,Centro,60,2,3,1554
+739,Jardim Centenário,48,2,1,1400
+740,Parque Santa Felícia Jardim,80,3,1,1667
+741,,100,3,2,2000
+742,Centro,56,2,1,1900
+743,,80,2,2,1500
+744,Parque Arnold Schimidt,41,1,1,1112
+745,Jardim Nova Santa Paula,57,2,1,750
+746,Jardim Gibertoni,130,3,3,1000
+747,Centro,60,2,1,1900
+748,Parque Sabará,67,2,2,1900
+749,Jardim Gibertoni,70,2,1,1334
+750,Parque Santa Mônica,81,3,1,1300
+751,Jardim Nova São Carlos,42,2,1,640
+752,Parque Arnold Schimidt,63,2,2,1500
+753,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+754,,102,3,2,3111
+755,Parque Fehr,43,2,1,1334
+756,Jardim Bethania,60,2,2,1700
+757,Jardim Alvorada,60,2,1,880
+758,Jardim Alvorada,64,2,2,2500
+759,Jardim Santa Paula,66,2,2,1223
+760,Parque Arnold Schimidt,48,2,1,1100
+761,Parque Santa Mônica,82,1,1,1400
+762,Jardim Brasil,49,2,2,1000
+763,Vila Irene,42,2,1,600
+764,,64,3,2,1400
+765,Centro,44,1,1,1400
+766,Jardim Lutfalla,56,2,1,1555
+767,,98,2,2,1667
+768,Gleba I,111,4,3,3300
+769,Centro,35,1,2,1112
+770,Jardim Bethania,115,3,1,2440
+771,Jardim Gibertoni,150,3,3,3700
+772,,146,3,4,2500
+773,Parque Sabará,63,2,2,1760
+774,Centro,60,2,3,1554
+775,Jardim Centenário,48,2,1,1400
+776,Parque Santa Felícia Jardim,80,3,1,1667
+777,,100,3,2,2000
+778,Centro,56,2,1,1900
+779,,80,2,2,1500
+780,Parque Arnold Schimidt,41,1,1,1112
+781,Jardim Nova Santa Paula,57,2,1,750
+782,Jardim Gibertoni,130,3,3,1000
+783,Centro,60,2,1,1900
+784,Parque Sabará,67,2,2,1900
+785,Jardim Gibertoni,70,2,1,1334
+786,Parque Santa Mônica,81,3,1,1300
+787,Jardim Nova São Carlos,42,2,1,640
+788,Parque Arnold Schimidt,63,2,2,1500
+789,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+790,,102,3,2,3111
+791,Parque Fehr,43,2,1,1334
+792,Jardim Bethania,60,2,2,1700
+793,Jardim Alvorada,60,2,1,880
+794,Jardim Alvorada,64,2,2,2500
+795,Jardim Santa Paula,66,2,2,1223
+796,Parque Arnold Schimidt,48,2,1,1100
+797,Parque Santa Mônica,82,1,1,1400
+798,Jardim Brasil,49,2,2,1000
+799,Vila Irene,42,2,1,600
+800,,64,3,2,1400
+801,Centro,44,1,1,1400
+802,Jardim Lutfalla,56,2,1,1555
+803,,98,2,2,1667
+804,Gleba I,111,4,3,3300
+805,Centro,35,1,2,1112
+806,Jardim Bethania,115,3,1,2440
+807,Jardim Gibertoni,150,3,3,3700
+808,,146,3,4,2500
+809,Parque Sabará,63,2,2,1760
+810,Centro,60,2,3,1554
+811,Jardim Centenário,48,2,1,1400
+812,Parque Santa Felícia Jardim,80,3,1,1667
+813,,100,3,2,2000
+814,Centro,56,2,1,1900
+815,,80,2,2,1500
+816,Parque Arnold Schimidt,41,1,1,1112
+817,Jardim Nova Santa Paula,57,2,1,750
+818,Jardim Gibertoni,130,3,3,1000
+819,Centro,60,2,1,1900
+820,Parque Sabará,67,2,2,1900
+821,Jardim Gibertoni,70,2,1,1334
+822,Parque Santa Mônica,81,3,1,1300
+823,Jardim Nova São Carlos,42,2,1,640
+824,Parque Arnold Schimidt,63,2,2,1500
+825,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+826,,102,3,2,3111
+827,Parque Fehr,43,2,1,1334
+828,Jardim Bethania,60,2,2,1700
+829,Jardim Alvorada,60,2,1,880
+830,Jardim Alvorada,64,2,2,2500
+831,Jardim Santa Paula,66,2,2,1223
+832,Parque Arnold Schimidt,48,2,1,1100
+833,Parque Santa Mônica,82,1,1,1400
+834,Jardim Brasil,49,2,2,1000
+835,Vila Irene,42,2,1,600
+836,,64,3,2,1400
+837,Centro,44,1,1,1400
+838,Jardim Lutfalla,56,2,1,1555
+839,,98,2,2,1667
+840,Gleba I,111,4,3,3300
+841,Centro,35,1,2,1112
+842,Jardim Bethania,115,3,1,2440
+843,Jardim Gibertoni,150,3,3,3700
+844,,146,3,4,2500
+845,Parque Sabará,63,2,2,1760
+846,Centro,60,2,3,1554
+847,Jardim Centenário,48,2,1,1400
+848,Parque Santa Felícia Jardim,80,3,1,1667
+849,,100,3,2,2000
+850,Centro,56,2,1,1900
+851,,80,2,2,1500
+852,Parque Arnold Schimidt,41,1,1,1112
+853,Jardim Nova Santa Paula,57,2,1,750
+854,Jardim Gibertoni,130,3,3,1000
+855,Centro,60,2,1,1900
+856,Parque Sabará,67,2,2,1900
+857,Jardim Gibertoni,70,2,1,1334
+858,Parque Santa Mônica,81,3,1,1300
+859,Jardim Nova São Carlos,42,2,1,640
+860,Parque Arnold Schimidt,63,2,2,1500
+861,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+862,,102,3,2,3111
+863,Parque Fehr,43,2,1,1334
+864,Jardim Bethania,60,2,2,1700
+865,Jardim Alvorada,60,2,1,880
+866,Jardim Alvorada,64,2,2,2500
+867,Jardim Santa Paula,66,2,2,1223
+868,Parque Arnold Schimidt,48,2,1,1100
+869,Parque Santa Mônica,82,1,1,1400
+870,Jardim Brasil,49,2,2,1000
+871,Vila Irene,42,2,1,600
+872,,64,3,2,1400
+873,Centro,44,1,1,1400
+874,Jardim Lutfalla,56,2,1,1555
+875,,98,2,2,1667
+876,Gleba I,111,4,3,3300
+877,Centro,35,1,2,1112
+878,Jardim Bethania,115,3,1,2440
+879,Jardim Gibertoni,150,3,3,3700
+880,,146,3,4,2500
+881,Parque Sabará,63,2,2,1760
+882,Centro,60,2,3,1554
+883,Jardim Centenário,48,2,1,1400
+884,Parque Santa Felícia Jardim,80,3,1,1667
+885,,100,3,2,2000
+886,Centro,56,2,1,1900
+887,,80,2,2,1500
+888,Parque Arnold Schimidt,41,1,1,1112
+889,Jardim Nova Santa Paula,57,2,1,750
+890,Jardim Gibertoni,130,3,3,1000
+891,Centro,60,2,1,1900
+892,Parque Sabará,67,2,2,1900
+893,Jardim Gibertoni,70,2,1,1334
+894,Parque Santa Mônica,81,3,1,1300
+895,Jardim Nova São Carlos,42,2,1,640
+896,Parque Arnold Schimidt,63,2,2,1500
+897,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+898,,102,3,2,3111
+899,Parque Fehr,43,2,1,1334
+900,Jardim Bethania,60,2,2,1700
+901,Jardim Alvorada,60,2,1,880
+902,Jardim Alvorada,64,2,2,2500
+903,Jardim Santa Paula,66,2,2,1223
+904,Parque Arnold Schimidt,48,2,1,1100
+905,Parque Santa Mônica,82,1,1,1400
+906,Jardim Brasil,49,2,2,1000
+907,Vila Irene,42,2,1,600
+908,,64,3,2,1400
+909,Centro,44,1,1,1400
+910,Jardim Lutfalla,56,2,1,1555
+911,,98,2,2,1667
+912,Gleba I,111,4,3,3300
+913,Centro,35,1,2,1112
+914,Jardim Bethania,115,3,1,2440
+915,Jardim Gibertoni,150,3,3,3700
+916,,146,3,4,2500
+917,Parque Sabará,63,2,2,1760
+918,Centro,60,2,3,1554
+919,Jardim Centenário,48,2,1,1400
+920,Parque Santa Felícia Jardim,80,3,1,1667
+921,,100,3,2,2000
+922,Centro,56,2,1,1900
+923,,80,2,2,1500
+924,Parque Arnold Schimidt,41,1,1,1112
+925,Jardim Nova Santa Paula,57,2,1,750
+926,Jardim Gibertoni,130,3,3,1000
+927,Centro,60,2,1,1900
+928,Parque Sabará,67,2,2,1900
+929,Jardim Gibertoni,70,2,1,1334
+930,Parque Santa Mônica,81,3,1,1300
+931,Jardim Nova São Carlos,42,2,1,640
+932,Parque Arnold Schimidt,63,2,2,1500
+933,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+934,,102,3,2,3111
+935,Parque Fehr,43,2,1,1334
+936,Jardim Bethania,60,2,2,1700
+937,Jardim Alvorada,60,2,1,880
+938,Jardim Alvorada,64,2,2,2500
+939,Jardim Santa Paula,66,2,2,1223
+940,Parque Arnold Schimidt,48,2,1,1100
+941,Parque Santa Mônica,82,1,1,1400
+942,Jardim Brasil,49,2,2,1000
+943,Vila Irene,42,2,1,600
+944,,64,3,2,1400
+945,Centro,44,1,1,1400
+946,Jardim Lutfalla,56,2,1,1555
+947,,98,2,2,1667
+948,Gleba I,111,4,3,3300
+949,Centro,35,1,2,1112
+950,Jardim Bethania,115,3,1,2440
+951,Jardim Gibertoni,150,3,3,3700
+952,,146,3,4,2500
+953,Parque Sabará,63,2,2,1760
+954,Centro,60,2,3,1554
+955,Jardim Centenário,48,2,1,1400
+956,Parque Santa Felícia Jardim,80,3,1,1667
+957,,100,3,2,2000
+958,Centro,56,2,1,1900
+959,,80,2,2,1500
+960,Parque Arnold Schimidt,41,1,1,1112
+961,Jardim Nova Santa Paula,57,2,1,750
+962,Jardim Gibertoni,130,3,3,1000
+963,Centro,60,2,1,1900
+964,Parque Sabará,67,2,2,1900
+965,Jardim Gibertoni,70,2,1,1334
+966,Parque Santa Mônica,81,3,1,1300
+967,Jardim Nova São Carlos,42,2,1,640
+968,Parque Arnold Schimidt,63,2,2,1500
+969,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+970,,102,3,2,3111
+971,Parque Fehr,43,2,1,1334
+972,Jardim Bethania,60,2,2,1700
+973,Jardim Alvorada,60,2,1,880
+974,Jardim Alvorada,64,2,2,2500
+975,Jardim Santa Paula,66,2,2,1223
+976,Parque Arnold Schimidt,48,2,1,1100
+977,Parque Santa Mônica,82,1,1,1400
+978,Jardim Brasil,49,2,2,1000
+979,Vila Irene,42,2,1,600
+980,,64,3,2,1400
+981,Centro,44,1,1,1400
+982,Jardim Lutfalla,56,2,1,1555
+983,,98,2,2,1667
+984,Gleba I,111,4,3,3300
+985,Centro,35,1,2,1112
+986,Jardim Bethania,115,3,1,2440
+987,Jardim Gibertoni,150,3,3,3700
+988,,146,3,4,2500
+989,Parque Sabará,63,2,2,1760
+990,Centro,60,2,3,1554
+991,Jardim Centenário,48,2,1,1400
+992,Parque Santa Felícia Jardim,80,3,1,1667
+993,,100,3,2,2000
+994,Centro,56,2,1,1900
+995,,80,2,2,1500
+996,Parque Arnold Schimidt,41,1,1,1112
+997,Jardim Nova Santa Paula,57,2,1,750
+998,Jardim Gibertoni,130,3,3,1000
+999,Centro,60,2,1,1900
+1000,Parque Sabará,67,2,2,1900
+1001,Jardim Gibertoni,70,2,1,1334
+1002,Parque Santa Mônica,81,3,1,1300
+1003,Jardim Nova São Carlos,42,2,1,640
+1004,Parque Arnold Schimidt,63,2,2,1500
+1005,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1006,,102,3,2,3111
+1007,Parque Fehr,43,2,1,1334
+1008,Jardim Bethania,60,2,2,1700
+1009,Jardim Alvorada,60,2,1,880
+1010,Jardim Alvorada,64,2,2,2500
+1011,Jardim Santa Paula,66,2,2,1223
+1012,Parque Arnold Schimidt,48,2,1,1100
+1013,Parque Santa Mônica,82,1,1,1400
+1014,Jardim Brasil,49,2,2,1000
+1015,Vila Irene,42,2,1,600
+1016,,64,3,2,1400
+1017,Centro,44,1,1,1400
+1018,Jardim Lutfalla,56,2,1,1555
+1019,,98,2,2,1667
+1020,Gleba I,111,4,3,3300
+1021,Centro,35,1,2,1112
+1022,Jardim Bethania,115,3,1,2440
+1023,Jardim Gibertoni,150,3,3,3700
+1024,,146,3,4,2500
+1025,Parque Sabará,63,2,2,1760
+1026,Centro,60,2,3,1554
+1027,Jardim Centenário,48,2,1,1400
+1028,Parque Santa Felícia Jardim,80,3,1,1667
+1029,,100,3,2,2000
+1030,Centro,56,2,1,1900
+1031,,80,2,2,1500
+1032,Parque Arnold Schimidt,41,1,1,1112
+1033,Jardim Nova Santa Paula,57,2,1,750
+1034,Jardim Gibertoni,130,3,3,1000
+1035,Centro,60,2,1,1900
+1036,Parque Sabará,67,2,2,1900
+1037,Jardim Gibertoni,70,2,1,1334
+1038,Parque Santa Mônica,81,3,1,1300
+1039,Jardim Nova São Carlos,42,2,1,640
+1040,Parque Arnold Schimidt,63,2,2,1500
+1041,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1042,,102,3,2,3111
+1043,Parque Fehr,43,2,1,1334
+1044,Jardim Bethania,60,2,2,1700
+1045,Jardim Alvorada,60,2,1,880
+1046,Jardim Alvorada,64,2,2,2500
+1047,Jardim Santa Paula,66,2,2,1223
+1048,Parque Arnold Schimidt,48,2,1,1100
+1049,Parque Santa Mônica,82,1,1,1400
+1050,Jardim Brasil,49,2,2,1000
+1051,Vila Irene,42,2,1,600
+1052,,64,3,2,1400
+1053,Centro,44,1,1,1400
+1054,Jardim Lutfalla,56,2,1,1555
+1055,,98,2,2,1667
+1056,Gleba I,111,4,3,3300
+1057,Centro,35,1,2,1112
+1058,Jardim Bethania,115,3,1,2440
+1059,Jardim Gibertoni,150,3,3,3700
+1060,,146,3,4,2500
+1061,Parque Sabará,63,2,2,1760
+1062,Centro,60,2,3,1554
+1063,Jardim Centenário,48,2,1,1400
+1064,Parque Santa Felícia Jardim,80,3,1,1667
+1065,,100,3,2,2000
+1066,Centro,56,2,1,1900
+1067,,80,2,2,1500
+1068,Parque Arnold Schimidt,41,1,1,1112
+1069,Jardim Nova Santa Paula,57,2,1,750
+1070,Jardim Gibertoni,130,3,3,1000
+1071,Centro,60,2,1,1900
+1072,Parque Sabará,67,2,2,1900
+1073,Jardim Gibertoni,70,2,1,1334
+1074,Parque Santa Mônica,81,3,1,1300
+1075,Jardim Nova São Carlos,42,2,1,640
+1076,Parque Arnold Schimidt,63,2,2,1500
+1077,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1078,,102,3,2,3111
+1079,Parque Fehr,43,2,1,1334
+1080,Jardim Bethania,60,2,2,1700
+1081,Jardim Alvorada,60,2,1,880
+1082,Jardim Alvorada,64,2,2,2500
+1083,Jardim Santa Paula,66,2,2,1223
+1084,Parque Arnold Schimidt,48,2,1,1100
+1085,Parque Santa Mônica,82,1,1,1400
+1086,Jardim Brasil,49,2,2,1000
+1087,Vila Irene,42,2,1,600
+1088,,64,3,2,1400
+1089,Centro,44,1,1,1400
+1090,Jardim Lutfalla,56,2,1,1555
+1091,,98,2,2,1667
+1092,Gleba I,111,4,3,3300
+1093,Centro,35,1,2,1112
+1094,Jardim Bethania,115,3,1,2440
+1095,Jardim Gibertoni,150,3,3,3700
+1096,,146,3,4,2500
+1097,Parque Sabará,63,2,2,1760
+1098,Centro,60,2,3,1554
+1099,Jardim Centenário,48,2,1,1400
+1100,Parque Santa Felícia Jardim,80,3,1,1667
+1101,,100,3,2,2000
+1102,Centro,56,2,1,1900
+1103,,80,2,2,1500
+1104,Parque Arnold Schimidt,41,1,1,1112
+1105,Jardim Nova Santa Paula,57,2,1,750
+1106,Jardim Gibertoni,130,3,3,1000
+1107,Centro,60,2,1,1900
+1108,Parque Sabará,67,2,2,1900
+1109,Jardim Gibertoni,70,2,1,1334
+1110,Parque Santa Mônica,81,3,1,1300
+1111,Jardim Nova São Carlos,42,2,1,640
+1112,Parque Arnold Schimidt,63,2,2,1500
+1113,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1114,,102,3,2,3111
+1115,Parque Fehr,43,2,1,1334
+1116,Jardim Bethania,60,2,2,1700
+1117,Jardim Alvorada,60,2,1,880
+1118,Jardim Alvorada,64,2,2,2500
+1119,Jardim Santa Paula,66,2,2,1223
+1120,Parque Arnold Schimidt,48,2,1,1100
+1121,Parque Santa Mônica,82,1,1,1400
+1122,Jardim Brasil,49,2,2,1000
+1123,Vila Irene,42,2,1,600
+1124,,64,3,2,1400
+1125,Centro,44,1,1,1400
+1126,Jardim Lutfalla,56,2,1,1555
+1127,,98,2,2,1667
+1128,Gleba I,111,4,3,3300
+1129,Centro,35,1,2,1112
+1130,Jardim Bethania,115,3,1,2440
+1131,Jardim Gibertoni,150,3,3,3700
+1132,,146,3,4,2500
+1133,Parque Sabará,63,2,2,1760
+1134,Centro,60,2,3,1554
+1135,Jardim Centenário,48,2,1,1400
+1136,Parque Santa Felícia Jardim,80,3,1,1667
+1137,,100,3,2,2000
+1138,Centro,56,2,1,1900
+1139,,80,2,2,1500
+1140,Parque Arnold Schimidt,41,1,1,1112
+1141,Jardim Nova Santa Paula,57,2,1,750
+1142,Jardim Gibertoni,130,3,3,1000
+1143,Centro,60,2,1,1900
+1144,Parque Sabará,67,2,2,1900
+1145,Jardim Gibertoni,70,2,1,1334
+1146,Parque Santa Mônica,81,3,1,1300
+1147,Jardim Nova São Carlos,42,2,1,640
+1148,Parque Arnold Schimidt,63,2,2,1500
+1149,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1150,,102,3,2,3111
+1151,Parque Fehr,43,2,1,1334
+1152,Jardim Bethania,60,2,2,1700
+1153,Jardim Alvorada,60,2,1,880
+1154,Jardim Alvorada,64,2,2,2500
+1155,Jardim Santa Paula,66,2,2,1223
+1156,Parque Arnold Schimidt,48,2,1,1100
+1157,Parque Santa Mônica,82,1,1,1400
+1158,Jardim Brasil,49,2,2,1000
+1159,Vila Irene,42,2,1,600
+1160,,64,3,2,1400
+1161,Centro,44,1,1,1400
+1162,Jardim Lutfalla,56,2,1,1555
+1163,,98,2,2,1667
+1164,Gleba I,111,4,3,3300
+1165,Centro,35,1,2,1112
+1166,Jardim Bethania,115,3,1,2440
+1167,Jardim Gibertoni,150,3,3,3700
+1168,,146,3,4,2500
+1169,Parque Sabará,63,2,2,1760
+1170,Centro,60,2,3,1554
+1171,Jardim Centenário,48,2,1,1400
+1172,Parque Santa Felícia Jardim,80,3,1,1667
+1173,,100,3,2,2000
+1174,Centro,56,2,1,1900
+1175,,80,2,2,1500
+1176,Parque Arnold Schimidt,41,1,1,1112
+1177,Jardim Nova Santa Paula,57,2,1,750
+1178,Jardim Gibertoni,130,3,3,1000
+1179,Centro,60,2,1,1900
+1180,Parque Sabará,67,2,2,1900
+1181,Jardim Gibertoni,70,2,1,1334
+1182,Parque Santa Mônica,81,3,1,1300
+1183,Jardim Nova São Carlos,42,2,1,640
+1184,Parque Arnold Schimidt,63,2,2,1500
+1185,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1186,,102,3,2,3111
+1187,Parque Fehr,43,2,1,1334
+1188,Jardim Bethania,60,2,2,1700
+1189,Jardim Alvorada,60,2,1,880
+1190,Jardim Alvorada,64,2,2,2500
+1191,Jardim Santa Paula,66,2,2,1223
+1192,Parque Arnold Schimidt,48,2,1,1100
+1193,Parque Santa Mônica,82,1,1,1400
+1194,Jardim Brasil,49,2,2,1000
+1195,Vila Irene,42,2,1,600
+1196,,64,3,2,1400
+1197,Centro,44,1,1,1400
+1198,Jardim Lutfalla,56,2,1,1555
+1199,,98,2,2,1667
+1200,Gleba I,111,4,3,3300
+1201,Centro,35,1,2,1112
+1202,Jardim Bethania,115,3,1,2440
+1203,Jardim Gibertoni,150,3,3,3700
+1204,,146,3,4,2500
+1205,Parque Sabará,63,2,2,1760
+1206,Centro,60,2,3,1554
+1207,Jardim Centenário,48,2,1,1400
+1208,Parque Santa Felícia Jardim,80,3,1,1667
+1209,,100,3,2,2000
+1210,Centro,56,2,1,1900
+1211,,80,2,2,1500
+1212,Parque Arnold Schimidt,41,1,1,1112
+1213,Jardim Nova Santa Paula,57,2,1,750
+1214,Jardim Gibertoni,130,3,3,1000
+1215,Centro,60,2,1,1900
+1216,Parque Sabará,67,2,2,1900
+1217,Jardim Gibertoni,70,2,1,1334
+1218,Parque Santa Mônica,81,3,1,1300
+1219,Jardim Nova São Carlos,42,2,1,640
+1220,Parque Arnold Schimidt,63,2,2,1500
+1221,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1222,,102,3,2,3111
+1223,Parque Fehr,43,2,1,1334
+1224,Jardim Bethania,60,2,2,1700
+1225,Jardim Alvorada,60,2,1,880
+1226,Jardim Alvorada,64,2,2,2500
+1227,Jardim Santa Paula,66,2,2,1223
+1228,Parque Arnold Schimidt,48,2,1,1100
+1229,Parque Santa Mônica,82,1,1,1400
+1230,Jardim Brasil,49,2,2,1000
+1231,Vila Irene,42,2,1,600
+1232,,64,3,2,1400
+1233,Centro,44,1,1,1400
+1234,Jardim Lutfalla,56,2,1,1555
+1235,,98,2,2,1667
+1236,Gleba I,111,4,3,3300
+1237,Centro,35,1,2,1112
+1238,Jardim Bethania,115,3,1,2440
+1239,Jardim Gibertoni,150,3,3,3700
+1240,,146,3,4,2500
+1241,Parque Sabará,63,2,2,1760
+1242,Centro,60,2,3,1554
+1243,Jardim Centenário,48,2,1,1400
+1244,Parque Santa Felícia Jardim,80,3,1,1667
+1245,,100,3,2,2000
+1246,Centro,56,2,1,1900
+1247,,80,2,2,1500
+1248,Parque Arnold Schimidt,41,1,1,1112
+1249,Jardim Nova Santa Paula,57,2,1,750
+1250,Jardim Gibertoni,130,3,3,1000
+1251,Centro,60,2,1,1900
+1252,Parque Sabará,67,2,2,1900
+1253,Jardim Gibertoni,70,2,1,1334
+1254,Parque Santa Mônica,81,3,1,1300
+1255,Jardim Nova São Carlos,42,2,1,640
+1256,Parque Arnold Schimidt,63,2,2,1500
+1257,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1258,,102,3,2,3111
+1259,Parque Fehr,43,2,1,1334
+1260,Jardim Bethania,60,2,2,1700
+1261,Jardim Alvorada,60,2,1,880
+1262,Jardim Alvorada,64,2,2,2500
+1263,Jardim Santa Paula,66,2,2,1223
+1264,Parque Arnold Schimidt,48,2,1,1100
+1265,Parque Santa Mônica,82,1,1,1400
+1266,Jardim Brasil,49,2,2,1000
+1267,Vila Irene,42,2,1,600
+1268,,64,3,2,1400
+1269,Centro,44,1,1,1400
+1270,Jardim Lutfalla,56,2,1,1555
+1271,,98,2,2,1667
+1272,Gleba I,111,4,3,3300
+1273,Centro,35,1,2,1112
+1274,Jardim Bethania,115,3,1,2440
+1275,Jardim Gibertoni,150,3,3,3700
+1276,,146,3,4,2500
+1277,Parque Sabará,63,2,2,1760
+1278,Centro,60,2,3,1554
+1279,Jardim Centenário,48,2,1,1400
+1280,Parque Santa Felícia Jardim,80,3,1,1667
+1281,,100,3,2,2000
+1282,Centro,56,2,1,1900
+1283,,80,2,2,1500
+1284,Parque Arnold Schimidt,41,1,1,1112
+1285,Jardim Nova Santa Paula,57,2,1,750
+1286,Jardim Gibertoni,130,3,3,1000
+1287,Centro,60,2,1,1900
+1288,Parque Sabará,67,2,2,1900
+1289,Jardim Gibertoni,70,2,1,1334
+1290,Parque Santa Mônica,81,3,1,1300
+1291,Jardim Nova São Carlos,42,2,1,640
+1292,Parque Arnold Schimidt,63,2,2,1500
+1293,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1294,,102,3,2,3111
+1295,Parque Fehr,43,2,1,1334
+1296,Jardim Bethania,60,2,2,1700
+1297,Jardim Alvorada,60,2,1,880
+1298,Jardim Alvorada,64,2,2,2500
+1299,Jardim Santa Paula,66,2,2,1223
+1300,Parque Arnold Schimidt,48,2,1,1100
+1301,Parque Santa Mônica,82,1,1,1400
+1302,Jardim Brasil,49,2,2,1000
+1303,Vila Irene,42,2,1,600
+1304,,64,3,2,1400
+1305,Centro,44,1,1,1400
+1306,Jardim Lutfalla,56,2,1,1555
+1307,,98,2,2,1667
+1308,Gleba I,111,4,3,3300
+1309,Centro,35,1,2,1112
+1310,Jardim Bethania,115,3,1,2440
+1311,Jardim Gibertoni,150,3,3,3700
+1312,,146,3,4,2500
+1313,Parque Sabará,63,2,2,1760
+1314,Centro,60,2,3,1554
+1315,Jardim Centenário,48,2,1,1400
+1316,Parque Santa Felícia Jardim,80,3,1,1667
+1317,,100,3,2,2000
+1318,Centro,56,2,1,1900
+1319,,80,2,2,1500
+1320,Parque Arnold Schimidt,41,1,1,1112
+1321,Jardim Nova Santa Paula,57,2,1,750
+1322,Jardim Gibertoni,130,3,3,1000
+1323,Centro,60,2,1,1900
+1324,Parque Sabará,67,2,2,1900
+1325,Jardim Gibertoni,70,2,1,1334
+1326,Parque Santa Mônica,81,3,1,1300
+1327,Jardim Nova São Carlos,42,2,1,640
+1328,Parque Arnold Schimidt,63,2,2,1500
+1329,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1330,,102,3,2,3111
+1331,Parque Fehr,43,2,1,1334
+1332,Jardim Bethania,60,2,2,1700
+1333,Jardim Alvorada,60,2,1,880
+1334,Jardim Alvorada,64,2,2,2500
+1335,Jardim Santa Paula,66,2,2,1223
+1336,Parque Arnold Schimidt,48,2,1,1100
+1337,Parque Santa Mônica,82,1,1,1400
+1338,Jardim Brasil,49,2,2,1000
+1339,Vila Irene,42,2,1,600
+1340,,64,3,2,1400
+1341,Centro,44,1,1,1400
+1342,Jardim Lutfalla,56,2,1,1555
+1343,,98,2,2,1667
+1344,Gleba I,111,4,3,3300
+1345,Centro,35,1,2,1112
+1346,Jardim Bethania,115,3,1,2440
+1347,Jardim Gibertoni,150,3,3,3700
+1348,,146,3,4,2500
+1349,Parque Sabará,63,2,2,1760
+1350,Centro,60,2,3,1554
+1351,Jardim Centenário,48,2,1,1400
+1352,Parque Santa Felícia Jardim,80,3,1,1667
+1353,,100,3,2,2000
+1354,Centro,56,2,1,1900
+1355,,80,2,2,1500
+1356,Parque Arnold Schimidt,41,1,1,1112
+1357,Jardim Nova Santa Paula,57,2,1,750
+1358,Jardim Gibertoni,130,3,3,1000
+1359,Centro,60,2,1,1900
+1360,Parque Sabará,67,2,2,1900
+1361,Jardim Gibertoni,70,2,1,1334
+1362,Parque Santa Mônica,81,3,1,1300
+1363,Jardim Nova São Carlos,42,2,1,640
+1364,Parque Arnold Schimidt,63,2,2,1500
+1365,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1366,,102,3,2,3111
+1367,Parque Fehr,43,2,1,1334
+1368,Jardim Bethania,60,2,2,1700
+1369,Jardim Alvorada,60,2,1,880
+1370,Jardim Alvorada,64,2,2,2500
+1371,Jardim Santa Paula,66,2,2,1223
+1372,Parque Arnold Schimidt,48,2,1,1100
+1373,Parque Santa Mônica,82,1,1,1400
+1374,Jardim Brasil,49,2,2,1000
+1375,Vila Irene,42,2,1,600
+1376,,64,3,2,1400
+1377,Centro,44,1,1,1400
+1378,Jardim Lutfalla,56,2,1,1555
+1379,,98,2,2,1667
+1380,Gleba I,111,4,3,3300
+1381,Centro,35,1,2,1112
+1382,Jardim Bethania,115,3,1,2440
+1383,Jardim Gibertoni,150,3,3,3700
+1384,,146,3,4,2500
+1385,Parque Sabará,63,2,2,1760
+1386,Centro,60,2,3,1554
+1387,Jardim Centenário,48,2,1,1400
+1388,Parque Santa Felícia Jardim,80,3,1,1667
+1389,,100,3,2,2000
+1390,Centro,56,2,1,1900
+1391,,80,2,2,1500
+1392,Parque Arnold Schimidt,41,1,1,1112
+1393,Jardim Nova Santa Paula,57,2,1,750
+1394,Jardim Gibertoni,130,3,3,1000
+1395,Centro,60,2,1,1900
+1396,Parque Sabará,67,2,2,1900
+1397,Jardim Gibertoni,70,2,1,1334
+1398,Parque Santa Mônica,81,3,1,1300
+1399,Jardim Nova São Carlos,42,2,1,640
+1400,Parque Arnold Schimidt,63,2,2,1500
+1401,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1402,,102,3,2,3111
+1403,Parque Fehr,43,2,1,1334
+1404,Jardim Bethania,60,2,2,1700
+1405,Jardim Alvorada,60,2,1,880
+1406,Jardim Alvorada,64,2,2,2500
+1407,Jardim Santa Paula,66,2,2,1223
+1408,Parque Arnold Schimidt,48,2,1,1100
+1409,Parque Santa Mônica,82,1,1,1400
+1410,Jardim Brasil,49,2,2,1000
+1411,Vila Irene,42,2,1,600
+1412,,64,3,2,1400
+1413,Centro,44,1,1,1400
+1414,Jardim Lutfalla,56,2,1,1555
+1415,,98,2,2,1667
+1416,Gleba I,111,4,3,3300
+1417,Centro,35,1,2,1112
+1418,Jardim Bethania,115,3,1,2440
+1419,Jardim Gibertoni,150,3,3,3700
+1420,,146,3,4,2500
+1421,Parque Sabará,63,2,2,1760
+1422,Centro,60,2,3,1554
+1423,Jardim Centenário,48,2,1,1400
+1424,Parque Santa Felícia Jardim,80,3,1,1667
+1425,,100,3,2,2000
+1426,Centro,56,2,1,1900
+1427,,80,2,2,1500
+1428,Parque Arnold Schimidt,41,1,1,1112
+1429,Jardim Nova Santa Paula,57,2,1,750
+1430,Jardim Gibertoni,130,3,3,1000
+1431,Centro,60,2,1,1900
+1432,Parque Sabará,67,2,2,1900
+1433,Jardim Gibertoni,70,2,1,1334
+1434,Parque Santa Mônica,81,3,1,1300
+1435,Jardim Nova São Carlos,42,2,1,640
+1436,Parque Arnold Schimidt,63,2,2,1500
+1437,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1438,,102,3,2,3111
+1439,Parque Fehr,43,2,1,1334
+1440,Jardim Bethania,60,2,2,1700
+1441,Jardim Alvorada,60,2,1,880
+1442,Jardim Alvorada,64,2,2,2500
+1443,Jardim Santa Paula,66,2,2,1223
+1444,Parque Arnold Schimidt,48,2,1,1100
+1445,Parque Santa Mônica,82,1,1,1400
+1446,Jardim Brasil,49,2,2,1000
+1447,Vila Irene,42,2,1,600
+1448,,64,3,2,1400
+1449,Centro,44,1,1,1400
+1450,Jardim Lutfalla,56,2,1,1555
+1451,,98,2,2,1667
+1452,Gleba I,111,4,3,3300
+1453,Centro,35,1,2,1112
+1454,Jardim Bethania,115,3,1,2440
+1455,Jardim Gibertoni,150,3,3,3700
+1456,,146,3,4,2500
+1457,Parque Sabará,63,2,2,1760
+1458,Centro,60,2,3,1554
+1459,Jardim Centenário,48,2,1,1400
+1460,Parque Santa Felícia Jardim,80,3,1,1667
+1461,,100,3,2,2000
+1462,Centro,56,2,1,1900
+1463,,80,2,2,1500
+1464,Parque Arnold Schimidt,41,1,1,1112
+1465,Jardim Nova Santa Paula,57,2,1,750
+1466,Jardim Gibertoni,130,3,3,1000
+1467,Centro,60,2,1,1900
+1468,Parque Sabará,67,2,2,1900
+1469,Jardim Gibertoni,70,2,1,1334
+1470,Parque Santa Mônica,81,3,1,1300
+1471,Jardim Nova São Carlos,42,2,1,640
+1472,Parque Arnold Schimidt,63,2,2,1500
+1473,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1474,,102,3,2,3111
+1475,Parque Fehr,43,2,1,1334
+1476,Jardim Bethania,60,2,2,1700
+1477,Jardim Alvorada,60,2,1,880
+1478,Jardim Alvorada,64,2,2,2500
+1479,Jardim Santa Paula,66,2,2,1223
+1480,Parque Arnold Schimidt,48,2,1,1100
+1481,Parque Santa Mônica,82,1,1,1400
+1482,Jardim Brasil,49,2,2,1000
+1483,Vila Irene,42,2,1,600
+1484,,64,3,2,1400
+1485,Centro,44,1,1,1400
+1486,Jardim Lutfalla,56,2,1,1555
+1487,,98,2,2,1667
+1488,Gleba I,111,4,3,3300
+1489,Centro,35,1,2,1112
+1490,Jardim Bethania,115,3,1,2440
+1491,Jardim Gibertoni,150,3,3,3700
+1492,,146,3,4,2500
+1493,Parque Sabará,63,2,2,1760
+1494,Centro,60,2,3,1554
+1495,Jardim Centenário,48,2,1,1400
+1496,Parque Santa Felícia Jardim,80,3,1,1667
+1497,,100,3,2,2000
+1498,Centro,56,2,1,1900
+1499,,80,2,2,1500
+1500,Parque Arnold Schimidt,41,1,1,1112
+1501,Jardim Nova Santa Paula,57,2,1,750
+1502,Jardim Gibertoni,130,3,3,1000
+1503,Centro,60,2,1,1900
+1504,Parque Sabará,67,2,2,1900
+1505,Jardim Gibertoni,70,2,1,1334
+1506,Parque Santa Mônica,81,3,1,1300
+1507,Jardim Nova São Carlos,42,2,1,640
+1508,Parque Arnold Schimidt,63,2,2,1500
+1509,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1510,,102,3,2,3111
+1511,Parque Fehr,43,2,1,1334
+1512,Jardim Bethania,60,2,2,1700
+1513,Jardim Alvorada,60,2,1,880
+1514,Jardim Alvorada,64,2,2,2500
+1515,Jardim Santa Paula,66,2,2,1223
+1516,Parque Arnold Schimidt,48,2,1,1100
+1517,Parque Santa Mônica,82,1,1,1400
+1518,Jardim Brasil,49,2,2,1000
+1519,Vila Irene,42,2,1,600
+1520,,64,3,2,1400
+1521,Centro,44,1,1,1400
+1522,Jardim Lutfalla,56,2,1,1555
+1523,,98,2,2,1667
+1524,Gleba I,111,4,3,3300
+1525,Centro,35,1,2,1112
+1526,Jardim Bethania,115,3,1,2440
+1527,Jardim Gibertoni,150,3,3,3700
+1528,,146,3,4,2500
+1529,Parque Sabará,63,2,2,1760
+1530,Centro,60,2,3,1554
+1531,Jardim Centenário,48,2,1,1400
+1532,Parque Santa Felícia Jardim,80,3,1,1667
+1533,,100,3,2,2000
+1534,Centro,56,2,1,1900
+1535,,80,2,2,1500
+1536,Parque Arnold Schimidt,41,1,1,1112
+1537,Jardim Nova Santa Paula,57,2,1,750
+1538,Jardim Gibertoni,130,3,3,1000
+1539,Centro,60,2,1,1900
+1540,Parque Sabará,67,2,2,1900
+1541,Jardim Gibertoni,70,2,1,1334
+1542,Parque Santa Mônica,81,3,1,1300
+1543,Jardim Nova São Carlos,42,2,1,640
+1544,Parque Arnold Schimidt,63,2,2,1500
+1545,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1546,,102,3,2,3111
+1547,Parque Fehr,43,2,1,1334
+1548,Jardim Bethania,60,2,2,1700
+1549,Jardim Alvorada,60,2,1,880
+1550,Jardim Alvorada,64,2,2,2500
+1551,Jardim Santa Paula,66,2,2,1223
+1552,Parque Arnold Schimidt,48,2,1,1100
+1553,Parque Santa Mônica,82,1,1,1400
+1554,Jardim Brasil,49,2,2,1000
+1555,Vila Irene,42,2,1,600
+1556,,64,3,2,1400
+1557,Centro,44,1,1,1400
+1558,Jardim Lutfalla,56,2,1,1555
+1559,,98,2,2,1667
+1560,Gleba I,111,4,3,3300
+1561,Centro,35,1,2,1112
+1562,Jardim Bethania,115,3,1,2440
+1563,Jardim Gibertoni,150,3,3,3700
+1564,,146,3,4,2500
+1565,Parque Sabará,63,2,2,1760
+1566,Centro,60,2,3,1554
+1567,Jardim Centenário,48,2,1,1400
+1568,Parque Santa Felícia Jardim,80,3,1,1667
+1569,,100,3,2,2000
+1570,Centro,56,2,1,1900
+1571,,80,2,2,1500
+1572,Parque Arnold Schimidt,41,1,1,1112
+1573,Jardim Nova Santa Paula,57,2,1,750
+1574,Jardim Gibertoni,130,3,3,1000
+1575,Centro,60,2,1,1900
+1576,Parque Sabará,67,2,2,1900
+1577,Jardim Gibertoni,70,2,1,1334
+1578,Parque Santa Mônica,81,3,1,1300
+1579,Jardim Nova São Carlos,42,2,1,640
+1580,Parque Arnold Schimidt,63,2,2,1500
+1581,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1582,,102,3,2,3111
+1583,Parque Fehr,43,2,1,1334
+1584,Jardim Bethania,60,2,2,1700
+1585,Jardim Alvorada,60,2,1,880
+1586,Jardim Alvorada,64,2,2,2500
+1587,Jardim Santa Paula,66,2,2,1223
+1588,Parque Arnold Schimidt,48,2,1,1100
+1589,Parque Santa Mônica,82,1,1,1400
+1590,Jardim Brasil,49,2,2,1000
+1591,Vila Irene,42,2,1,600
+1592,,64,3,2,1400
+1593,Centro,44,1,1,1400
+1594,Jardim Lutfalla,56,2,1,1555
+1595,,98,2,2,1667
+1596,Gleba I,111,4,3,3300
+1597,Centro,35,1,2,1112
+1598,Jardim Bethania,115,3,1,2440
+1599,Jardim Gibertoni,150,3,3,3700
+1600,,146,3,4,2500
+1601,Parque Sabará,63,2,2,1760
+1602,Centro,60,2,3,1554
+1603,Jardim Centenário,48,2,1,1400
+1604,Parque Santa Felícia Jardim,80,3,1,1667
+1605,,100,3,2,2000
+1606,Centro,56,2,1,1900
+1607,,80,2,2,1500
+1608,Parque Arnold Schimidt,41,1,1,1112
+1609,Jardim Nova Santa Paula,57,2,1,750
+1610,Jardim Gibertoni,130,3,3,1000
+1611,Centro,60,2,1,1900
+1612,Parque Sabará,67,2,2,1900
+1613,Jardim Gibertoni,70,2,1,1334
+1614,Parque Santa Mônica,81,3,1,1300
+1615,Jardim Nova São Carlos,42,2,1,640
+1616,Parque Arnold Schimidt,63,2,2,1500
+1617,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1618,,102,3,2,3111
+1619,Parque Fehr,43,2,1,1334
+1620,Jardim Bethania,60,2,2,1700
+1621,Jardim Alvorada,60,2,1,880
+1622,Jardim Alvorada,64,2,2,2500
+1623,Jardim Santa Paula,66,2,2,1223
+1624,Parque Arnold Schimidt,48,2,1,1100
+1625,Parque Santa Mônica,82,1,1,1400
+1626,Jardim Brasil,49,2,2,1000
+1627,Vila Irene,42,2,1,600
+1628,,64,3,2,1400
+1629,Centro,44,1,1,1400
+1630,Jardim Lutfalla,56,2,1,1555
+1631,,98,2,2,1667
+1632,Gleba I,111,4,3,3300
+1633,Centro,35,1,2,1112
+1634,Jardim Bethania,115,3,1,2440
+1635,Jardim Gibertoni,150,3,3,3700
+1636,,146,3,4,2500
+1637,Parque Sabará,63,2,2,1760
+1638,Centro,60,2,3,1554
+1639,Jardim Centenário,48,2,1,1400
+1640,Parque Santa Felícia Jardim,80,3,1,1667
+1641,,100,3,2,2000
+1642,Centro,56,2,1,1900
+1643,,80,2,2,1500
+1644,Parque Arnold Schimidt,41,1,1,1112
+1645,Jardim Nova Santa Paula,57,2,1,750
+1646,Jardim Gibertoni,130,3,3,1000
+1647,Centro,60,2,1,1900
+1648,Parque Sabará,67,2,2,1900
+1649,Jardim Gibertoni,70,2,1,1334
+1650,Parque Santa Mônica,81,3,1,1300
+1651,Jardim Nova São Carlos,42,2,1,640
+1652,Parque Arnold Schimidt,63,2,2,1500
+1653,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1654,,102,3,2,3111
+1655,Parque Fehr,43,2,1,1334
+1656,Jardim Bethania,60,2,2,1700
+1657,Jardim Alvorada,60,2,1,880
+1658,Jardim Alvorada,64,2,2,2500
+1659,Jardim Santa Paula,66,2,2,1223
+1660,Parque Arnold Schimidt,48,2,1,1100
+1661,Parque Santa Mônica,82,1,1,1400
+1662,Jardim Brasil,49,2,2,1000
+1663,Vila Irene,42,2,1,600
+1664,,64,3,2,1400
+1665,Centro,44,1,1,1400
+1666,Jardim Lutfalla,56,2,1,1555
+1667,,98,2,2,1667
+1668,Gleba I,111,4,3,3300
+1669,Centro,35,1,2,1112
+1670,Jardim Bethania,115,3,1,2440
+1671,Jardim Gibertoni,150,3,3,3700
+1672,,146,3,4,2500
+1673,Parque Sabará,63,2,2,1760
+1674,Centro,60,2,3,1554
+1675,Jardim Centenário,48,2,1,1400
+1676,Parque Santa Felícia Jardim,80,3,1,1667
+1677,,100,3,2,2000
+1678,Centro,56,2,1,1900
+1679,,80,2,2,1500
+1680,Parque Arnold Schimidt,41,1,1,1112
+1681,Jardim Nova Santa Paula,57,2,1,750
+1682,Jardim Gibertoni,130,3,3,1000
+1683,Centro,60,2,1,1900
+1684,Parque Sabará,67,2,2,1900
+1685,Jardim Gibertoni,70,2,1,1334
+1686,Parque Santa Mônica,81,3,1,1300
+1687,Jardim Nova São Carlos,42,2,1,640
+1688,Parque Arnold Schimidt,63,2,2,1500
+1689,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1690,,102,3,2,3111
+1691,Parque Fehr,43,2,1,1334
+1692,Jardim Bethania,60,2,2,1700
+1693,Jardim Alvorada,60,2,1,880
+1694,Jardim Alvorada,64,2,2,2500
+1695,Jardim Santa Paula,66,2,2,1223
+1696,Parque Arnold Schimidt,48,2,1,1100
+1697,Parque Santa Mônica,82,1,1,1400
+1698,Jardim Brasil,49,2,2,1000
+1699,Vila Irene,42,2,1,600
+1700,,64,3,2,1400
+1701,Centro,44,1,1,1400
+1702,Jardim Lutfalla,56,2,1,1555
+1703,,98,2,2,1667
+1704,Gleba I,111,4,3,3300
+1705,Centro,35,1,2,1112
+1706,Jardim Bethania,115,3,1,2440
+1707,Jardim Gibertoni,150,3,3,3700
+1708,,146,3,4,2500
+1709,Parque Sabará,63,2,2,1760
+1710,Centro,60,2,3,1554
+1711,Jardim Centenário,48,2,1,1400
+1712,Parque Santa Felícia Jardim,80,3,1,1667
+1713,,100,3,2,2000
+1714,Centro,56,2,1,1900
+1715,,80,2,2,1500
+1716,Parque Arnold Schimidt,41,1,1,1112
+1717,Jardim Nova Santa Paula,57,2,1,750
+1718,Jardim Gibertoni,130,3,3,1000
+1719,Centro,60,2,1,1900
+1720,Parque Sabará,67,2,2,1900
+1721,Jardim Gibertoni,70,2,1,1334
+1722,Parque Santa Mônica,81,3,1,1300
+1723,Jardim Nova São Carlos,42,2,1,640
+1724,Parque Arnold Schimidt,63,2,2,1500
+1725,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1726,,102,3,2,3111
+1727,Parque Fehr,43,2,1,1334
+1728,Jardim Bethania,60,2,2,1700
+1729,Jardim Alvorada,60,2,1,880
+1730,Jardim Alvorada,64,2,2,2500
+1731,Jardim Santa Paula,66,2,2,1223
+1732,Parque Arnold Schimidt,48,2,1,1100
+1733,Parque Santa Mônica,82,1,1,1400
+1734,Jardim Brasil,49,2,2,1000
+1735,Vila Irene,42,2,1,600
+1736,,64,3,2,1400
+1737,Centro,44,1,1,1400
+1738,Jardim Lutfalla,56,2,1,1555
+1739,,98,2,2,1667
+1740,Gleba I,111,4,3,3300
+1741,Centro,35,1,2,1112
+1742,Jardim Bethania,115,3,1,2440
+1743,Jardim Gibertoni,150,3,3,3700
+1744,,146,3,4,2500
+1745,Parque Sabará,63,2,2,1760
+1746,Centro,60,2,3,1554
+1747,Jardim Centenário,48,2,1,1400
+1748,Parque Santa Felícia Jardim,80,3,1,1667
+1749,,100,3,2,2000
+1750,Centro,56,2,1,1900
+1751,,80,2,2,1500
+1752,Parque Arnold Schimidt,41,1,1,1112
+1753,Jardim Nova Santa Paula,57,2,1,750
+1754,Jardim Gibertoni,130,3,3,1000
+1755,Centro,60,2,1,1900
+1756,Parque Sabará,67,2,2,1900
+1757,Jardim Gibertoni,70,2,1,1334
+1758,Parque Santa Mônica,81,3,1,1300
+1759,Jardim Nova São Carlos,42,2,1,640
+1760,Parque Arnold Schimidt,63,2,2,1500
+1761,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1762,,102,3,2,3111
+1763,Parque Fehr,43,2,1,1334
+1764,Jardim Bethania,60,2,2,1700
+1765,Jardim Alvorada,60,2,1,880
+1766,Jardim Alvorada,64,2,2,2500
+1767,Jardim Santa Paula,66,2,2,1223
+1768,Parque Arnold Schimidt,48,2,1,1100
+1769,Parque Santa Mônica,82,1,1,1400
+1770,Jardim Brasil,49,2,2,1000
+1771,Vila Irene,42,2,1,600
+1772,,64,3,2,1400
+1773,Centro,44,1,1,1400
+1774,Jardim Lutfalla,56,2,1,1555
+1775,,98,2,2,1667
+1776,Gleba I,111,4,3,3300
+1777,Centro,35,1,2,1112
+1778,Jardim Bethania,115,3,1,2440
+1779,Jardim Gibertoni,150,3,3,3700
+1780,,146,3,4,2500
+1781,Parque Sabará,63,2,2,1760
+1782,Centro,60,2,3,1554
+1783,Jardim Centenário,48,2,1,1400
+1784,Parque Santa Felícia Jardim,80,3,1,1667
+1785,,100,3,2,2000
+1786,Centro,56,2,1,1900
+1787,,80,2,2,1500
+1788,Parque Arnold Schimidt,41,1,1,1112
+1789,Jardim Nova Santa Paula,57,2,1,750
+1790,Jardim Gibertoni,130,3,3,1000
+1791,Centro,60,2,1,1900
+1792,Parque Sabará,67,2,2,1900
+1793,Jardim Gibertoni,70,2,1,1334
+1794,Parque Santa Mônica,81,3,1,1300
+1795,Jardim Nova São Carlos,42,2,1,640
+1796,Parque Arnold Schimidt,63,2,2,1500
+1797,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1798,,102,3,2,3111
+1799,Parque Fehr,43,2,1,1334
+1800,Jardim Bethania,60,2,2,1700
+1801,Jardim Alvorada,60,2,1,880
+1802,Jardim Alvorada,64,2,2,2500
+1803,Jardim Santa Paula,66,2,2,1223
+1804,Parque Arnold Schimidt,48,2,1,1100
+1805,Parque Santa Mônica,82,1,1,1400
+1806,Jardim Brasil,49,2,2,1000
+1807,Vila Irene,42,2,1,600
+1808,,64,3,2,1400
+1809,Centro,44,1,1,1400
+1810,Jardim Lutfalla,56,2,1,1555
+1811,,98,2,2,1667
+1812,Gleba I,111,4,3,3300
+1813,Centro,35,1,2,1112
+1814,Jardim Bethania,115,3,1,2440
+1815,Jardim Gibertoni,150,3,3,3700
+1816,,146,3,4,2500
+1817,Parque Sabará,63,2,2,1760
+1818,Centro,60,2,3,1554
+1819,Jardim Centenário,48,2,1,1400
+1820,Parque Santa Felícia Jardim,80,3,1,1667
+1821,,100,3,2,2000
+1822,Centro,56,2,1,1900
+1823,,80,2,2,1500
+1824,Parque Arnold Schimidt,41,1,1,1112
+1825,Jardim Nova Santa Paula,57,2,1,750
+1826,Jardim Gibertoni,130,3,3,1000
+1827,Centro,60,2,1,1900
+1828,Parque Sabará,67,2,2,1900
+1829,Jardim Gibertoni,70,2,1,1334
+1830,Parque Santa Mônica,81,3,1,1300
+1831,Jardim Nova São Carlos,42,2,1,640
+1832,Parque Arnold Schimidt,63,2,2,1500
+1833,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1834,,102,3,2,3111
+1835,Parque Fehr,43,2,1,1334
+1836,Jardim Bethania,60,2,2,1700
+1837,Jardim Alvorada,60,2,1,880
+1838,Jardim Alvorada,64,2,2,2500
+1839,Jardim Santa Paula,66,2,2,1223
+1840,Parque Arnold Schimidt,48,2,1,1100
+1841,Parque Santa Mônica,82,1,1,1400
+1842,Jardim Brasil,49,2,2,1000
+1843,Vila Irene,42,2,1,600
+1844,,64,3,2,1400
+1845,Centro,44,1,1,1400
+1846,Jardim Lutfalla,56,2,1,1555
+1847,,98,2,2,1667
+1848,Gleba I,111,4,3,3300
+1849,Centro,35,1,2,1112
+1850,Jardim Bethania,115,3,1,2440
+1851,Jardim Gibertoni,150,3,3,3700
+1852,,146,3,4,2500
+1853,Parque Sabará,63,2,2,1760
+1854,Centro,60,2,3,1554
+1855,Jardim Centenário,48,2,1,1400
+1856,Parque Santa Felícia Jardim,80,3,1,1667
+1857,,100,3,2,2000
+1858,Centro,56,2,1,1900
+1859,,80,2,2,1500
+1860,Parque Arnold Schimidt,41,1,1,1112
+1861,Jardim Nova Santa Paula,57,2,1,750
+1862,Jardim Gibertoni,130,3,3,1000
+1863,Centro,60,2,1,1900
+1864,Parque Sabará,67,2,2,1900
+1865,Jardim Gibertoni,70,2,1,1334
+1866,Parque Santa Mônica,81,3,1,1300
+1867,Jardim Nova São Carlos,42,2,1,640
+1868,Parque Arnold Schimidt,63,2,2,1500
+1869,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1870,,102,3,2,3111
+1871,Parque Fehr,43,2,1,1334
+1872,Jardim Bethania,60,2,2,1700
+1873,Jardim Alvorada,60,2,1,880
+1874,Jardim Alvorada,64,2,2,2500
+1875,Jardim Santa Paula,66,2,2,1223
+1876,Parque Arnold Schimidt,48,2,1,1100
+1877,Parque Santa Mônica,82,1,1,1400
+1878,Jardim Brasil,49,2,2,1000
+1879,Vila Irene,42,2,1,600
+1880,,64,3,2,1400
+1881,Centro,44,1,1,1400
+1882,Jardim Lutfalla,56,2,1,1555
+1883,,98,2,2,1667
+1884,Gleba I,111,4,3,3300
+1885,Centro,35,1,2,1112
+1886,Jardim Bethania,115,3,1,2440
+1887,Jardim Gibertoni,150,3,3,3700
+1888,,146,3,4,2500
+1889,Parque Sabará,63,2,2,1760
+1890,Centro,60,2,3,1554
+1891,Jardim Centenário,48,2,1,1400
+1892,Parque Santa Felícia Jardim,80,3,1,1667
+1893,,100,3,2,2000
+1894,Centro,56,2,1,1900
+1895,,80,2,2,1500
+1896,Parque Arnold Schimidt,41,1,1,1112
+1897,Jardim Nova Santa Paula,57,2,1,750
+1898,Jardim Gibertoni,130,3,3,1000
+1899,Centro,60,2,1,1900
+1900,Parque Sabará,67,2,2,1900
+1901,Jardim Gibertoni,70,2,1,1334
+1902,Parque Santa Mônica,81,3,1,1300
+1903,Jardim Nova São Carlos,42,2,1,640
+1904,Parque Arnold Schimidt,63,2,2,1500
+1905,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1906,,102,3,2,3111
+1907,Parque Fehr,43,2,1,1334
+1908,Jardim Bethania,60,2,2,1700
+1909,Jardim Alvorada,60,2,1,880
+1910,Jardim Alvorada,64,2,2,2500
+1911,Jardim Santa Paula,66,2,2,1223
+1912,Parque Arnold Schimidt,48,2,1,1100
+1913,Parque Santa Mônica,82,1,1,1400
+1914,Jardim Brasil,49,2,2,1000
+1915,Vila Irene,42,2,1,600
+1916,,64,3,2,1400
+1917,Centro,44,1,1,1400
+1918,Jardim Lutfalla,56,2,1,1555
+1919,,98,2,2,1667
+1920,Gleba I,111,4,3,3300
+1921,Centro,35,1,2,1112
+1922,Jardim Bethania,115,3,1,2440
+1923,Jardim Gibertoni,150,3,3,3700
+1924,,146,3,4,2500
+1925,Parque Sabará,63,2,2,1760
+1926,Centro,60,2,3,1554
+1927,Jardim Centenário,48,2,1,1400
+1928,Parque Santa Felícia Jardim,80,3,1,1667
+1929,,100,3,2,2000
+1930,Centro,56,2,1,1900
+1931,,80,2,2,1500
+1932,Parque Arnold Schimidt,41,1,1,1112
+1933,Jardim Nova Santa Paula,57,2,1,750
+1934,Jardim Gibertoni,130,3,3,1000
+1935,Centro,60,2,1,1900
+1936,Parque Sabará,67,2,2,1900
+1937,Jardim Gibertoni,70,2,1,1334
+1938,Parque Santa Mônica,81,3,1,1300
+1939,Jardim Nova São Carlos,42,2,1,640
+1940,Parque Arnold Schimidt,63,2,2,1500
+1941,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1942,,102,3,2,3111
+1943,Parque Fehr,43,2,1,1334
+1944,Jardim Bethania,60,2,2,1700
+1945,Jardim Alvorada,60,2,1,880
+1946,Jardim Alvorada,64,2,2,2500
+1947,Jardim Santa Paula,66,2,2,1223
+1948,Parque Arnold Schimidt,48,2,1,1100
+1949,Parque Santa Mônica,82,1,1,1400
+1950,Jardim Brasil,49,2,2,1000
+1951,Vila Irene,42,2,1,600
+1952,,64,3,2,1400
+1953,Centro,44,1,1,1400
+1954,Jardim Lutfalla,56,2,1,1555
+1955,,98,2,2,1667
+1956,Gleba I,111,4,3,3300
+1957,Centro,35,1,2,1112
+1958,Jardim Bethania,115,3,1,2440
+1959,Jardim Gibertoni,150,3,3,3700
+1960,,146,3,4,2500
+1961,Parque Sabará,63,2,2,1760
+1962,Centro,60,2,3,1554
+1963,Jardim Centenário,48,2,1,1400
+1964,Parque Santa Felícia Jardim,80,3,1,1667
+1965,,100,3,2,2000
+1966,Centro,56,2,1,1900
+1967,,80,2,2,1500
+1968,Parque Arnold Schimidt,41,1,1,1112
+1969,Jardim Nova Santa Paula,57,2,1,750
+1970,Jardim Gibertoni,130,3,3,1000
+1971,Centro,60,2,1,1900
+1972,Parque Sabará,67,2,2,1900
+1973,Jardim Gibertoni,70,2,1,1334
+1974,Parque Santa Mônica,81,3,1,1300
+1975,Jardim Nova São Carlos,42,2,1,640
+1976,Parque Arnold Schimidt,63,2,2,1500
+1977,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+1978,,102,3,2,3111
+1979,Parque Fehr,43,2,1,1334
+1980,Jardim Bethania,60,2,2,1700
+1981,Jardim Alvorada,60,2,1,880
+1982,Jardim Alvorada,64,2,2,2500
+1983,Jardim Santa Paula,66,2,2,1223
+1984,Parque Arnold Schimidt,48,2,1,1100
+1985,Parque Santa Mônica,82,1,1,1400
+1986,Jardim Brasil,49,2,2,1000
+1987,Vila Irene,42,2,1,600
+1988,,64,3,2,1400
+1989,Centro,44,1,1,1400
+1990,Jardim Lutfalla,56,2,1,1555
+1991,,98,2,2,1667
+1992,Gleba I,111,4,3,3300
+1993,Centro,35,1,2,1112
+1994,Jardim Bethania,115,3,1,2440
+1995,Jardim Gibertoni,150,3,3,3700
+1996,,146,3,4,2500
+1997,Parque Sabará,63,2,2,1760
+1998,Centro,60,2,3,1554
+1999,Jardim Centenário,48,2,1,1400
+2000,Parque Santa Felícia Jardim,80,3,1,1667
+2001,,100,3,2,2000
+2002,Centro,56,2,1,1900
+2003,,80,2,2,1500
+2004,Parque Arnold Schimidt,41,1,1,1112
+2005,Jardim Nova Santa Paula,57,2,1,750
+2006,Jardim Gibertoni,130,3,3,1000
+2007,Centro,60,2,1,1900
+2008,Parque Sabará,67,2,2,1900
+2009,Jardim Gibertoni,70,2,1,1334
+2010,Parque Santa Mônica,81,3,1,1300
+2011,Jardim Nova São Carlos,42,2,1,640
+2012,Parque Arnold Schimidt,63,2,2,1500
+2013,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2014,,102,3,2,3111
+2015,Parque Fehr,43,2,1,1334
+2016,Jardim Bethania,60,2,2,1700
+2017,Jardim Alvorada,60,2,1,880
+2018,Jardim Alvorada,64,2,2,2500
+2019,Jardim Santa Paula,66,2,2,1223
+2020,Parque Arnold Schimidt,48,2,1,1100
+2021,Parque Santa Mônica,82,1,1,1400
+2022,Jardim Brasil,49,2,2,1000
+2023,Vila Irene,42,2,1,600
+2024,,64,3,2,1400
+2025,Centro,44,1,1,1400
+2026,Jardim Lutfalla,56,2,1,1555
+2027,,98,2,2,1667
+2028,Gleba I,111,4,3,3300
+2029,Centro,35,1,2,1112
+2030,Jardim Bethania,115,3,1,2440
+2031,Jardim Gibertoni,150,3,3,3700
+2032,,146,3,4,2500
+2033,Parque Sabará,63,2,2,1760
+2034,Centro,60,2,3,1554
+2035,Jardim Centenário,48,2,1,1400
+2036,Parque Santa Felícia Jardim,80,3,1,1667
+2037,,100,3,2,2000
+2038,Centro,56,2,1,1900
+2039,,80,2,2,1500
+2040,Parque Arnold Schimidt,41,1,1,1112
+2041,Jardim Nova Santa Paula,57,2,1,750
+2042,Jardim Gibertoni,130,3,3,1000
+2043,Centro,60,2,1,1900
+2044,Parque Sabará,67,2,2,1900
+2045,Jardim Gibertoni,70,2,1,1334
+2046,Parque Santa Mônica,81,3,1,1300
+2047,Jardim Nova São Carlos,42,2,1,640
+2048,Parque Arnold Schimidt,63,2,2,1500
+2049,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2050,,102,3,2,3111
+2051,Parque Fehr,43,2,1,1334
+2052,Jardim Bethania,60,2,2,1700
+2053,Jardim Alvorada,60,2,1,880
+2054,Jardim Alvorada,64,2,2,2500
+2055,Jardim Santa Paula,66,2,2,1223
+2056,Parque Arnold Schimidt,48,2,1,1100
+2057,Parque Santa Mônica,82,1,1,1400
+2058,Jardim Brasil,49,2,2,1000
+2059,Vila Irene,42,2,1,600
+2060,,64,3,2,1400
+2061,Centro,44,1,1,1400
+2062,Jardim Lutfalla,56,2,1,1555
+2063,,98,2,2,1667
+2064,Gleba I,111,4,3,3300
+2065,Centro,35,1,2,1112
+2066,Jardim Bethania,115,3,1,2440
+2067,Jardim Gibertoni,150,3,3,3700
+2068,,146,3,4,2500
+2069,Parque Sabará,63,2,2,1760
+2070,Centro,60,2,3,1554
+2071,Jardim Centenário,48,2,1,1400
+2072,Parque Santa Felícia Jardim,80,3,1,1667
+2073,,100,3,2,2000
+2074,Centro,56,2,1,1900
+2075,,80,2,2,1500
+2076,Parque Arnold Schimidt,41,1,1,1112
+2077,Jardim Nova Santa Paula,57,2,1,750
+2078,Jardim Gibertoni,130,3,3,1000
+2079,Centro,60,2,1,1900
+2080,Parque Sabará,67,2,2,1900
+2081,Jardim Gibertoni,70,2,1,1334
+2082,Parque Santa Mônica,81,3,1,1300
+2083,Jardim Nova São Carlos,42,2,1,640
+2084,Parque Arnold Schimidt,63,2,2,1500
+2085,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2086,,102,3,2,3111
+2087,Parque Fehr,43,2,1,1334
+2088,Jardim Bethania,60,2,2,1700
+2089,Jardim Alvorada,60,2,1,880
+2090,Jardim Alvorada,64,2,2,2500
+2091,Jardim Santa Paula,66,2,2,1223
+2092,Parque Arnold Schimidt,48,2,1,1100
+2093,Parque Santa Mônica,82,1,1,1400
+2094,Jardim Brasil,49,2,2,1000
+2095,Vila Irene,42,2,1,600
+2096,,64,3,2,1400
+2097,Centro,44,1,1,1400
+2098,Jardim Lutfalla,56,2,1,1555
+2099,,98,2,2,1667
+2100,Gleba I,111,4,3,3300
+2101,Centro,35,1,2,1112
+2102,Jardim Bethania,115,3,1,2440
+2103,Jardim Gibertoni,150,3,3,3700
+2104,,146,3,4,2500
+2105,Parque Sabará,63,2,2,1760
+2106,Centro,60,2,3,1554
+2107,Jardim Centenário,48,2,1,1400
+2108,Parque Santa Felícia Jardim,80,3,1,1667
+2109,,100,3,2,2000
+2110,Centro,56,2,1,1900
+2111,,80,2,2,1500
+2112,Parque Arnold Schimidt,41,1,1,1112
+2113,Jardim Nova Santa Paula,57,2,1,750
+2114,Jardim Gibertoni,130,3,3,1000
+2115,Centro,60,2,1,1900
+2116,Parque Sabará,67,2,2,1900
+2117,Jardim Gibertoni,70,2,1,1334
+2118,Parque Santa Mônica,81,3,1,1300
+2119,Jardim Nova São Carlos,42,2,1,640
+2120,Parque Arnold Schimidt,63,2,2,1500
+2121,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2122,,102,3,2,3111
+2123,Parque Fehr,43,2,1,1334
+2124,Jardim Bethania,60,2,2,1700
+2125,Jardim Alvorada,60,2,1,880
+2126,Jardim Alvorada,64,2,2,2500
+2127,Jardim Santa Paula,66,2,2,1223
+2128,Parque Arnold Schimidt,48,2,1,1100
+2129,Parque Santa Mônica,82,1,1,1400
+2130,Jardim Brasil,49,2,2,1000
+2131,Vila Irene,42,2,1,600
+2132,,64,3,2,1400
+2133,Centro,44,1,1,1400
+2134,Jardim Lutfalla,56,2,1,1555
+2135,,98,2,2,1667
+2136,Gleba I,111,4,3,3300
+2137,Centro,35,1,2,1112
+2138,Jardim Bethania,115,3,1,2440
+2139,Jardim Gibertoni,150,3,3,3700
+2140,,146,3,4,2500
+2141,Parque Sabará,63,2,2,1760
+2142,Centro,60,2,3,1554
+2143,Jardim Centenário,48,2,1,1400
+2144,Parque Santa Felícia Jardim,80,3,1,1667
+2145,,100,3,2,2000
+2146,Centro,56,2,1,1900
+2147,,80,2,2,1500
+2148,Parque Arnold Schimidt,41,1,1,1112
+2149,Jardim Nova Santa Paula,57,2,1,750
+2150,Jardim Gibertoni,130,3,3,1000
+2151,Centro,60,2,1,1900
+2152,Parque Sabará,67,2,2,1900
+2153,Jardim Gibertoni,70,2,1,1334
+2154,Parque Santa Mônica,81,3,1,1300
+2155,Jardim Nova São Carlos,42,2,1,640
+2156,Parque Arnold Schimidt,63,2,2,1500
+2157,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2158,,102,3,2,3111
+2159,Parque Fehr,43,2,1,1334
+2160,Jardim Bethania,60,2,2,1700
+2161,Jardim Alvorada,60,2,1,880
+2162,Jardim Alvorada,64,2,2,2500
+2163,Jardim Santa Paula,66,2,2,1223
+2164,Parque Arnold Schimidt,48,2,1,1100
+2165,Parque Santa Mônica,82,1,1,1400
+2166,Jardim Brasil,49,2,2,1000
+2167,Vila Irene,42,2,1,600
+2168,,64,3,2,1400
+2169,Centro,44,1,1,1400
+2170,Jardim Lutfalla,56,2,1,1555
+2171,,98,2,2,1667
+2172,Gleba I,111,4,3,3300
+2173,Centro,35,1,2,1112
+2174,Jardim Bethania,115,3,1,2440
+2175,Jardim Gibertoni,150,3,3,3700
+2176,,146,3,4,2500
+2177,Parque Sabará,63,2,2,1760
+2178,Centro,60,2,3,1554
+2179,Jardim Centenário,48,2,1,1400
+2180,Parque Santa Felícia Jardim,80,3,1,1667
+2181,,100,3,2,2000
+2182,Centro,56,2,1,1900
+2183,,80,2,2,1500
+2184,Parque Arnold Schimidt,41,1,1,1112
+2185,Jardim Nova Santa Paula,57,2,1,750
+2186,Jardim Gibertoni,130,3,3,1000
+2187,Centro,60,2,1,1900
+2188,Parque Sabará,67,2,2,1900
+2189,Jardim Gibertoni,70,2,1,1334
+2190,Parque Santa Mônica,81,3,1,1300
+2191,Jardim Nova São Carlos,42,2,1,640
+2192,Parque Arnold Schimidt,63,2,2,1500
+2193,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2194,,102,3,2,3111
+2195,Parque Fehr,43,2,1,1334
+2196,Jardim Bethania,60,2,2,1700
+2197,Jardim Alvorada,60,2,1,880
+2198,Jardim Alvorada,64,2,2,2500
+2199,Jardim Santa Paula,66,2,2,1223
+2200,Parque Arnold Schimidt,48,2,1,1100
+2201,Parque Santa Mônica,82,1,1,1400
+2202,Jardim Brasil,49,2,2,1000
+2203,Vila Irene,42,2,1,600
+2204,,64,3,2,1400
+2205,Centro,44,1,1,1400
+2206,Jardim Lutfalla,56,2,1,1555
+2207,,98,2,2,1667
+2208,Gleba I,111,4,3,3300
+2209,Centro,35,1,2,1112
+2210,Jardim Bethania,115,3,1,2440
+2211,Jardim Gibertoni,150,3,3,3700
+2212,,146,3,4,2500
+2213,Parque Sabará,63,2,2,1760
+2214,Centro,60,2,3,1554
+2215,Jardim Centenário,48,2,1,1400
+2216,Parque Santa Felícia Jardim,80,3,1,1667
+2217,,100,3,2,2000
+2218,Centro,56,2,1,1900
+2219,,80,2,2,1500
+2220,Parque Arnold Schimidt,41,1,1,1112
+2221,Jardim Nova Santa Paula,57,2,1,750
+2222,Jardim Gibertoni,130,3,3,1000
+2223,Centro,60,2,1,1900
+2224,Parque Sabará,67,2,2,1900
+2225,Jardim Gibertoni,70,2,1,1334
+2226,Parque Santa Mônica,81,3,1,1300
+2227,Jardim Nova São Carlos,42,2,1,640
+2228,Parque Arnold Schimidt,63,2,2,1500
+2229,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2230,,102,3,2,3111
+2231,Parque Fehr,43,2,1,1334
+2232,Jardim Bethania,60,2,2,1700
+2233,Jardim Alvorada,60,2,1,880
+2234,Jardim Alvorada,64,2,2,2500
+2235,Jardim Santa Paula,66,2,2,1223
+2236,Parque Arnold Schimidt,48,2,1,1100
+2237,Parque Santa Mônica,82,1,1,1400
+2238,Jardim Brasil,49,2,2,1000
+2239,Vila Irene,42,2,1,600
+2240,,64,3,2,1400
+2241,Centro,44,1,1,1400
+2242,Jardim Lutfalla,56,2,1,1555
+2243,,98,2,2,1667
+2244,Gleba I,111,4,3,3300
+2245,Centro,35,1,2,1112
+2246,Jardim Bethania,115,3,1,2440
+2247,Jardim Gibertoni,150,3,3,3700
+2248,,146,3,4,2500
+2249,Parque Sabará,63,2,2,1760
+2250,Centro,60,2,3,1554
+2251,Jardim Centenário,48,2,1,1400
+2252,Parque Santa Felícia Jardim,80,3,1,1667
+2253,,100,3,2,2000
+2254,Centro,56,2,1,1900
+2255,,80,2,2,1500
+2256,Parque Arnold Schimidt,41,1,1,1112
+2257,Jardim Nova Santa Paula,57,2,1,750
+2258,Jardim Gibertoni,130,3,3,1000
+2259,Centro,60,2,1,1900
+2260,Parque Sabará,67,2,2,1900
+2261,Jardim Gibertoni,70,2,1,1334
+2262,Parque Santa Mônica,81,3,1,1300
+2263,Jardim Nova São Carlos,42,2,1,640
+2264,Parque Arnold Schimidt,63,2,2,1500
+2265,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2266,,102,3,2,3111
+2267,Parque Fehr,43,2,1,1334
+2268,Jardim Bethania,60,2,2,1700
+2269,Jardim Alvorada,60,2,1,880
+2270,Jardim Alvorada,64,2,2,2500
+2271,Jardim Santa Paula,66,2,2,1223
+2272,Parque Arnold Schimidt,48,2,1,1100
+2273,Parque Santa Mônica,82,1,1,1400
+2274,Jardim Brasil,49,2,2,1000
+2275,Vila Irene,42,2,1,600
+2276,,64,3,2,1400
+2277,Centro,44,1,1,1400
+2278,Jardim Lutfalla,56,2,1,1555
+2279,,98,2,2,1667
+2280,Gleba I,111,4,3,3300
+2281,Centro,35,1,2,1112
+2282,Jardim Bethania,115,3,1,2440
+2283,Jardim Gibertoni,150,3,3,3700
+2284,,146,3,4,2500
+2285,Parque Sabará,63,2,2,1760
+2286,Centro,60,2,3,1554
+2287,Jardim Centenário,48,2,1,1400
+2288,Parque Santa Felícia Jardim,80,3,1,1667
+2289,,100,3,2,2000
+2290,Centro,56,2,1,1900
+2291,,80,2,2,1500
+2292,Parque Arnold Schimidt,41,1,1,1112
+2293,Jardim Nova Santa Paula,57,2,1,750
+2294,Jardim Gibertoni,130,3,3,1000
+2295,Centro,60,2,1,1900
+2296,Parque Sabará,67,2,2,1900
+2297,Jardim Gibertoni,70,2,1,1334
+2298,Parque Santa Mônica,81,3,1,1300
+2299,Jardim Nova São Carlos,42,2,1,640
+2300,Parque Arnold Schimidt,63,2,2,1500
+2301,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2302,,102,3,2,3111
+2303,Parque Fehr,43,2,1,1334
+2304,Jardim Bethania,60,2,2,1700
+2305,Jardim Alvorada,60,2,1,880
+2306,Jardim Alvorada,64,2,2,2500
+2307,Jardim Santa Paula,66,2,2,1223
+2308,Parque Arnold Schimidt,48,2,1,1100
+2309,Parque Santa Mônica,82,1,1,1400
+2310,Jardim Brasil,49,2,2,1000
+2311,Vila Irene,42,2,1,600
+2312,,64,3,2,1400
+2313,Centro,44,1,1,1400
+2314,Jardim Lutfalla,56,2,1,1555
+2315,,98,2,2,1667
+2316,Gleba I,111,4,3,3300
+2317,Centro,35,1,2,1112
+2318,Jardim Bethania,115,3,1,2440
+2319,Jardim Gibertoni,150,3,3,3700
+2320,,146,3,4,2500
+2321,Parque Sabará,63,2,2,1760
+2322,Centro,60,2,3,1554
+2323,Jardim Centenário,48,2,1,1400
+2324,Parque Santa Felícia Jardim,80,3,1,1667
+2325,,100,3,2,2000
+2326,Centro,56,2,1,1900
+2327,,80,2,2,1500
+2328,Parque Arnold Schimidt,41,1,1,1112
+2329,Jardim Nova Santa Paula,57,2,1,750
+2330,Jardim Gibertoni,130,3,3,1000
+2331,Centro,60,2,1,1900
+2332,Parque Sabará,67,2,2,1900
+2333,Jardim Gibertoni,70,2,1,1334
+2334,Parque Santa Mônica,81,3,1,1300
+2335,Jardim Nova São Carlos,42,2,1,640
+2336,Parque Arnold Schimidt,63,2,2,1500
+2337,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2338,,102,3,2,3111
+2339,Parque Fehr,43,2,1,1334
+2340,Jardim Bethania,60,2,2,1700
+2341,Jardim Alvorada,60,2,1,880
+2342,Jardim Alvorada,64,2,2,2500
+2343,Jardim Santa Paula,66,2,2,1223
+2344,Parque Arnold Schimidt,48,2,1,1100
+2345,Parque Santa Mônica,82,1,1,1400
+2346,Jardim Brasil,49,2,2,1000
+2347,Vila Irene,42,2,1,600
+2348,,64,3,2,1400
+2349,Centro,44,1,1,1400
+2350,Jardim Lutfalla,56,2,1,1555
+2351,,98,2,2,1667
+2352,Gleba I,111,4,3,3300
+2353,Centro,35,1,2,1112
+2354,Jardim Bethania,115,3,1,2440
+2355,Jardim Gibertoni,150,3,3,3700
+2356,,146,3,4,2500
+2357,Parque Sabará,63,2,2,1760
+2358,Centro,60,2,3,1554
+2359,Jardim Centenário,48,2,1,1400
+2360,Parque Santa Felícia Jardim,80,3,1,1667
+2361,,100,3,2,2000
+2362,Centro,56,2,1,1900
+2363,,80,2,2,1500
+2364,Parque Arnold Schimidt,41,1,1,1112
+2365,Jardim Nova Santa Paula,57,2,1,750
+2366,Jardim Gibertoni,130,3,3,1000
+2367,Centro,60,2,1,1900
+2368,Parque Sabará,67,2,2,1900
+2369,Jardim Gibertoni,70,2,1,1334
+2370,Parque Santa Mônica,81,3,1,1300
+2371,Jardim Nova São Carlos,42,2,1,640
+2372,Parque Arnold Schimidt,63,2,2,1500
+2373,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2374,,102,3,2,3111
+2375,Parque Fehr,43,2,1,1334
+2376,Jardim Bethania,60,2,2,1700
+2377,Jardim Alvorada,60,2,1,880
+2378,Jardim Alvorada,64,2,2,2500
+2379,Jardim Santa Paula,66,2,2,1223
+2380,Parque Arnold Schimidt,48,2,1,1100
+2381,Parque Santa Mônica,82,1,1,1400
+2382,Jardim Brasil,49,2,2,1000
+2383,Vila Irene,42,2,1,600
+2384,,64,3,2,1400
+2385,Centro,44,1,1,1400
+2386,Jardim Lutfalla,56,2,1,1555
+2387,,98,2,2,1667
+2388,Gleba I,111,4,3,3300
+2389,Centro,35,1,2,1112
+2390,Jardim Bethania,115,3,1,2440
+2391,Jardim Gibertoni,150,3,3,3700
+2392,,146,3,4,2500
+2393,Parque Sabará,63,2,2,1760
+2394,Centro,60,2,3,1554
+2395,Jardim Centenário,48,2,1,1400
+2396,Parque Santa Felícia Jardim,80,3,1,1667
+2397,,100,3,2,2000
+2398,Centro,56,2,1,1900
+2399,,80,2,2,1500
+2400,Parque Arnold Schimidt,41,1,1,1112
+2401,Jardim Nova Santa Paula,57,2,1,750
+2402,Jardim Gibertoni,130,3,3,1000
+2403,Centro,60,2,1,1900
+2404,Parque Sabará,67,2,2,1900
+2405,Jardim Gibertoni,70,2,1,1334
+2406,Parque Santa Mônica,81,3,1,1300
+2407,Jardim Nova São Carlos,42,2,1,640
+2408,Parque Arnold Schimidt,63,2,2,1500
+2409,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2410,,102,3,2,3111
+2411,Parque Fehr,43,2,1,1334
+2412,Jardim Bethania,60,2,2,1700
+2413,Jardim Alvorada,60,2,1,880
+2414,Jardim Alvorada,64,2,2,2500
+2415,Jardim Santa Paula,66,2,2,1223
+2416,Parque Arnold Schimidt,48,2,1,1100
+2417,Parque Santa Mônica,82,1,1,1400
+2418,Jardim Brasil,49,2,2,1000
+2419,Vila Irene,42,2,1,600
+2420,,64,3,2,1400
+2421,Centro,44,1,1,1400
+2422,Jardim Lutfalla,56,2,1,1555
+2423,,98,2,2,1667
+2424,Gleba I,111,4,3,3300
+2425,Centro,35,1,2,1112
+2426,Jardim Bethania,115,3,1,2440
+2427,Jardim Gibertoni,150,3,3,3700
+2428,,146,3,4,2500
+2429,Parque Sabará,63,2,2,1760
+2430,Centro,60,2,3,1554
+2431,Jardim Centenário,48,2,1,1400
+2432,Parque Santa Felícia Jardim,80,3,1,1667
+2433,,100,3,2,2000
+2434,Centro,56,2,1,1900
+2435,,80,2,2,1500
+2436,Parque Arnold Schimidt,41,1,1,1112
+2437,Jardim Nova Santa Paula,57,2,1,750
+2438,Jardim Gibertoni,130,3,3,1000
+2439,Centro,60,2,1,1900
+2440,Parque Sabará,67,2,2,1900
+2441,Jardim Gibertoni,70,2,1,1334
+2442,Parque Santa Mônica,81,3,1,1300
+2443,Jardim Nova São Carlos,42,2,1,640
+2444,Parque Arnold Schimidt,63,2,2,1500
+2445,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2446,,102,3,2,3111
+2447,Parque Fehr,43,2,1,1334
+2448,Jardim Bethania,60,2,2,1700
+2449,Jardim Alvorada,60,2,1,880
+2450,Jardim Alvorada,64,2,2,2500
+2451,Jardim Santa Paula,66,2,2,1223
+2452,Parque Arnold Schimidt,48,2,1,1100
+2453,Parque Santa Mônica,82,1,1,1400
+2454,Jardim Brasil,49,2,2,1000
+2455,Vila Irene,42,2,1,600
+2456,,64,3,2,1400
+2457,Centro,44,1,1,1400
+2458,Jardim Lutfalla,56,2,1,1555
+2459,,98,2,2,1667
+2460,Gleba I,111,4,3,3300
+2461,Centro,35,1,2,1112
+2462,Jardim Bethania,115,3,1,2440
+2463,Jardim Gibertoni,150,3,3,3700
+2464,,146,3,4,2500
+2465,Parque Sabará,63,2,2,1760
+2466,Centro,60,2,3,1554
+2467,Jardim Centenário,48,2,1,1400
+2468,Parque Santa Felícia Jardim,80,3,1,1667
+2469,,100,3,2,2000
+2470,Centro,56,2,1,1900
+2471,,80,2,2,1500
+2472,Parque Arnold Schimidt,41,1,1,1112
+2473,Jardim Nova Santa Paula,57,2,1,750
+2474,Jardim Gibertoni,130,3,3,1000
+2475,Centro,60,2,1,1900
+2476,Parque Sabará,67,2,2,1900
+2477,Jardim Gibertoni,70,2,1,1334
+2478,Parque Santa Mônica,81,3,1,1300
+2479,Jardim Nova São Carlos,42,2,1,640
+2480,Parque Arnold Schimidt,63,2,2,1500
+2481,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2482,,102,3,2,3111
+2483,Parque Fehr,43,2,1,1334
+2484,Jardim Bethania,60,2,2,1700
+2485,Jardim Alvorada,60,2,1,880
+2486,Jardim Alvorada,64,2,2,2500
+2487,Jardim Santa Paula,66,2,2,1223
+2488,Parque Arnold Schimidt,48,2,1,1100
+2489,Parque Santa Mônica,82,1,1,1400
+2490,Jardim Brasil,49,2,2,1000
+2491,Vila Irene,42,2,1,600
+2492,,64,3,2,1400
+2493,Centro,44,1,1,1400
+2494,Jardim Lutfalla,56,2,1,1555
+2495,,98,2,2,1667
+2496,Gleba I,111,4,3,3300
+2497,Centro,35,1,2,1112
+2498,Jardim Bethania,115,3,1,2440
+2499,Jardim Gibertoni,150,3,3,3700
+2500,,146,3,4,2500
+2501,Parque Sabará,63,2,2,1760
+2502,Centro,60,2,3,1554
+2503,Jardim Centenário,48,2,1,1400
+2504,Parque Santa Felícia Jardim,80,3,1,1667
+2505,,100,3,2,2000
+2506,Centro,56,2,1,1900
+2507,,80,2,2,1500
+2508,Parque Arnold Schimidt,41,1,1,1112
+2509,Jardim Nova Santa Paula,57,2,1,750
+2510,Jardim Gibertoni,130,3,3,1000
+2511,Centro,60,2,1,1900
+2512,Parque Sabará,67,2,2,1900
+2513,Jardim Gibertoni,70,2,1,1334
+2514,Parque Santa Mônica,81,3,1,1300
+2515,Jardim Nova São Carlos,42,2,1,640
+2516,Parque Arnold Schimidt,63,2,2,1500
+2517,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2518,,102,3,2,3111
+2519,Parque Fehr,43,2,1,1334
+2520,Jardim Bethania,60,2,2,1700
+2521,Jardim Alvorada,60,2,1,880
+2522,Jardim Alvorada,64,2,2,2500
+2523,Jardim Santa Paula,66,2,2,1223
+2524,Parque Arnold Schimidt,48,2,1,1100
+2525,Parque Santa Mônica,82,1,1,1400
+2526,Jardim Brasil,49,2,2,1000
+2527,Vila Irene,42,2,1,600
+2528,,64,3,2,1400
+2529,Centro,44,1,1,1400
+2530,Jardim Lutfalla,56,2,1,1555
+2531,,98,2,2,1667
+2532,Gleba I,111,4,3,3300
+2533,Centro,35,1,2,1112
+2534,Jardim Bethania,115,3,1,2440
+2535,Jardim Gibertoni,150,3,3,3700
+2536,,146,3,4,2500
+2537,Parque Sabará,63,2,2,1760
+2538,Centro,60,2,3,1554
+2539,Jardim Centenário,48,2,1,1400
+2540,Parque Santa Felícia Jardim,80,3,1,1667
+2541,,100,3,2,2000
+2542,Centro,56,2,1,1900
+2543,,80,2,2,1500
+2544,Parque Arnold Schimidt,41,1,1,1112
+2545,Jardim Nova Santa Paula,57,2,1,750
+2546,Jardim Gibertoni,130,3,3,1000
+2547,Centro,60,2,1,1900
+2548,Parque Sabará,67,2,2,1900
+2549,Jardim Gibertoni,70,2,1,1334
+2550,Parque Santa Mônica,81,3,1,1300
+2551,Jardim Nova São Carlos,42,2,1,640
+2552,Parque Arnold Schimidt,63,2,2,1500
+2553,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2554,,102,3,2,3111
+2555,Parque Fehr,43,2,1,1334
+2556,Jardim Bethania,60,2,2,1700
+2557,Jardim Alvorada,60,2,1,880
+2558,Jardim Alvorada,64,2,2,2500
+2559,Jardim Santa Paula,66,2,2,1223
+2560,Parque Arnold Schimidt,48,2,1,1100
+2561,Parque Santa Mônica,82,1,1,1400
+2562,Jardim Brasil,49,2,2,1000
+2563,Vila Irene,42,2,1,600
+2564,,64,3,2,1400
+2565,Centro,44,1,1,1400
+2566,Jardim Lutfalla,56,2,1,1555
+2567,,98,2,2,1667
+2568,Gleba I,111,4,3,3300
+2569,Centro,35,1,2,1112
+2570,Jardim Bethania,115,3,1,2440
+2571,Jardim Gibertoni,150,3,3,3700
+2572,,146,3,4,2500
+2573,Parque Sabará,63,2,2,1760
+2574,Centro,60,2,3,1554
+2575,Jardim Centenário,48,2,1,1400
+2576,Parque Santa Felícia Jardim,80,3,1,1667
+2577,,100,3,2,2000
+2578,Centro,56,2,1,1900
+2579,,80,2,2,1500
+2580,Parque Arnold Schimidt,41,1,1,1112
+2581,Jardim Nova Santa Paula,57,2,1,750
+2582,Jardim Gibertoni,130,3,3,1000
+2583,Centro,60,2,1,1900
+2584,Parque Sabará,67,2,2,1900
+2585,Jardim Gibertoni,70,2,1,1334
+2586,Parque Santa Mônica,81,3,1,1300
+2587,Jardim Nova São Carlos,42,2,1,640
+2588,Parque Arnold Schimidt,63,2,2,1500
+2589,Residencial Monsenhor Romeu Tortorelli,42,2,1,660
+2590,,102,3,2,3111
+2591,Parque Fehr,43,2,1,1334
