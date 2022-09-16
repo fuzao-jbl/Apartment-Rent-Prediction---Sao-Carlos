@@ -6,5 +6,14 @@ I have saved the pipeline to work with raw data and the model using pickle.
 
 At last, the guiapp is actually just a simple program that loads the pipeline, the model and asks for data, then it predicts the rent price.
 
+To run the GUI application, you must have installed the requirements:
+  - Pandas,
+  - Scikit Learn;
+  - Joblib;
+  - Tkinter;
+  - Pickle;
+  
+You can install them running: pip install pandas, sklearn, joblib, tkinter, pickle
+
 Warning: my dataset is really small, so the prediction won't be perfect but just a good approximation and the data won't be collected again,
 so if you are using the program too long after the data was collected (13/09/2022), there might be differences because of the age of the dataset.
