@@ -1,3 +1,4 @@
+import pickle
 from joblib import load
 import tkinter as tk
 from tkinter import ttk
