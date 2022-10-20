@@ -13,14 +13,12 @@ Para conseguir rodar o programa, você vai precisar:
 - Ter instalado Python3, Pandas, Joblib, Tkinter, Scikit-Learn e Pickle;
 - Entrar no repositório clonado e rodar o guiapp.py.
 
-Caso você não saiba seguir esses passos, abra seu terminal e o rode os seguintes comandos:
+Caso você use ubuntu ou mint (ou qualquer outra distro linux baseada em debian) e não saiba seguir esses passos, abra seu terminal e o rode os seguintes comandos:
 1. git clone https://github.com/fuzao-jbl/Apartment-Rent-Prediction---Sao-Carlos;
-
-Caso você use ubuntu ou mint (ou qualquer outra distro linux baseada em debian): 
-3. sudo apt install python3 python3-pip;
-4. pip install pandas sklearn;
-5. cd Apartment-Rent-Prediction---Sao-Carlos;
-6. python3 guiapp.py;
+2. sudo apt install python3 python3-pip;
+3. pip install pandas sklearn;
+4. cd Apartment-Rent-Prediction---Sao-Carlos;
+5. python3 guiapp.py;
 
 Espere um pouco que, provavelmente, vai aparecer a tela do programa para você :)
 
